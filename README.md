@@ -4,15 +4,23 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 ## Contributing
 Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) or email jiwon@alum.mit.edu to add links.
 
+## Table of Contents
+ - [Papers](#papers)
+  - [ImageNet Classification](#imagenet classification)
+ - [Software](#software)
+ - [Tutorials](#tutorials)
+ 
 ## Papers
 
 ### ImageNet Classification
   * Microsoft (PReLu/Weight Initialization) [[Paper]](http://arxiv.org/pdf/1502.01852v1)
     * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, arXiv:1502.01852.
-  * Batch Normalization [[Paper]](http://arxiv.org/pdf/1502.03167v3) [[Paper-2]](
+  * Batch Normalization [[Paper]](http://arxiv.org/pdf/1502.03167v3)
     * Sergey Ioffe, Christian Szegedy, Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, arXiv:1502.03167.
   * GoogLeNet [[Paper]](http://arxiv.org/pdf/1409.4842v1)
     * Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich, CVPR 2015. 
+  * VGG-Net [[Web]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) [[Paper]](http://arxiv.org/pdf/1409.1556)
+   * Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR 2015.
   * AlexNet [[Paper]](http://books.nips.cc/papers/files/nips25/NIPS2012_0534.pdf)
     * Krizhevsky, A., Sutskever, I. and Hinton, G. E, ImageNet Classification with Deep Convolutional Neural Networks
 NIPS 2012.
@@ -43,6 +51,10 @@ NIPS 2012.
 ### Compression Artifacts Reduction
   * Compression Artifacts Reduction by a Deep Convolutional Network [[Paper-arXiv15]](http://arxiv.org/pdf/1504.06993v1)
     * Chao Dong, Yubin Deng, Chen Change Loy, Xiaoou Tang, Compression Artifacts Reduction by a Deep Convolutional Network, arXiv:1504.06993
+
+## Software 
+ * Caffe: Deep learning framework by the BVLC [[Web]](http://caffe.berkeleyvision.org/)
+ * MatConvNet: CNNs for MATLAB [[Web]](http://www.vlfeat.org/matconvnet/)
 
 ## Tutorials
   * [CVPR 2014] [Tutorial on Deep Learning in Computer Vision](https://sites.google.com/site/deeplearningcvpr2014/)
