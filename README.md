@@ -6,22 +6,30 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ## Papers
 
-### Image Restoration
-#### Super-Resolution
+### Image Captioning 
+   * Baidu/UCLA [[Paper]](http://arxiv.org/pdf/1410.1090v1)
+      * Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Alan L. Yuille, Explain Images with Multimodal Recurrent Neural Networks, arXiv:1410.1090 (2014).
+   * Toronto [[Paper]](http://arxiv.org/pdf/1411.2539v1)
+      * Ryan Kiros, Ruslan Salakhutdinov, Richard S. Zemel, Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models, arXiv:1411.2539 (2014).
+   * Berkeley [[Paper]](http://arxiv.org/pdf/1411.4389v3)
+      * Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell, Long-term Recurrent Convolutional Networks for Visual Recognition and Description, arXiv:1411.4389 (2014).
+   * Google [[Paper]](http://arxiv.org/pdf/1411.4555v2)
+      * Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan, Show and Tell: A Neural Image Caption Generator, arXiv:1411.4555 (2014). 
+   * Stanford [[Web]](http://cs.stanford.edu/people/karpathy/deepimagesent/) [[Paper]](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
+      * Andrej Karpathy, Li Fei-Fei, Deep Visual-Semantic Alignments for Generating Image Description, CVPR (2015).
+   * UML/UT [[Paper]](http://arxiv.org/pdf/1412.4729v3)
+      * Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko, Translating Videos to Natural Language Using Deep Recurrent Neural Networks, NAACL-HLT 2015. 
+   * Microsoft/CMU [[Paper]](http://arxiv.org/pdf/1411.5654v1)
+      * Xinlei Chen, C. Lawrence Zitnick, Learning a Recurrent Visual Representation for Image Caption Generation, arXiv:1411.5654.
+   * Microsoft [[Paper]](http://arxiv.org/pdf/1411.4952v3)
+      * Hao Fang, Saurabh Gupta, Forrest Iandola, Rupesh Srivastava, Li Deng, Piotr Dollár, Jianfeng Gao, Xiaodong He, Margaret Mitchell, John C. Platt, C. Lawrence Zitnick, Geoffrey Zweig, From Captions to Visual Concepts and Back, CVPR 2015. 
+
+### Super-Resolution
  * SRCNN [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) [[Paper-ECCV14]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) [[Paper-arXiv15]](http://arxiv.org/pdf/1501.00092v1.pdf)
     * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Learning a Deep Convolutional Network for Image Super-Resolution, in ECCV 2014
     * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang. Image Super-Resolution Using Deep Convolutional Networks, arXiv:1501.00092 (2015)
 
-#### Compression Artifacts Reduction
+### Compression Artifacts Reduction
   * Compression Artifacts Reduction by a Deep Convolutional Network [[Paper-arXiv15]](http://arxiv.org/pdf/1504.06993v1)
     * Chao Dong, Yubin Deng, Chen Change Loy, Xiaoou Tang, Compression Artifacts Reduction by a Deep Convolutional Network, arXiv:1504.06993
 
-### Image Captioning 
-   * Baidu/UCLA: Explain Images with Multimodal Recurrent Neural Networks(http://arxiv.org/abs/1410.1090)
-   * Toronto: Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models(http://arxiv.org/abs/1411.2539)
-   * Berkeley: Long-term Recurrent Convolutional Networks for Visual Recognition and Description(http://arxiv.org/abs/1411.4389)
-   * Google: Show and Tell: A Neural Image Caption Generator(http://arxiv.org/abs/1411.4555)
-   * Stanford: Deep Visual-Semantic Alignments for Generating Image  Description(http://cs.stanford.edu/people/karpathy/deepimagesent/)
-   * UML/UT:  Translating Videos to Natural Language Using Deep Recurrent Neural Networks(http://arxiv.org/abs/1412.4729)
-   * Microsoft/CMU:  Learning a Recurrent Visual Representation for Image Caption Generation(http://arxiv.org/abs/1411.5654)
-   * Microsoft:  From Captions to Visual Concepts and Back(http://arxiv.org/abs/1411.4952)
