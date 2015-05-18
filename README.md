@@ -9,6 +9,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   - [ImageNet Classification](#imagenet-classification)
   - [Image Captioning](#image-captioning)
   - [Low-Level Vision](#low-level-vision)
+  - [Edge Detection](#edge-detection)
  - [Courses](#courses)
  - [Software](#software)
  - [Tutorials](#tutorials)
@@ -58,6 +59,14 @@ NIPS 2012.
   * Jian Sun, Wenfei Cao, Zongben Xu, Jean Ponce, Learning a Convolutional Neural Network for Non-uniform Motion Blur Removal, CVPR 2015. 
  * Image Deconvolution [[Web]](http://lxu.me/projects/dcnn/) [[Paper]](http://lxu.me/mypapers/dcnn_nips14.pdf)
   *  Li Xu, Jimmy SJ. Ren, Ce Liu, Jiaya Jia, "Deep Convolutional Neural Network for Image Deconvolution" Advances in Neural Information Processing Systems (NIPS), 2014.
+
+### Edge Detection
+ * Holistically-Nested Edge Detection [[Paper]](http://arxiv.org/pdf/1504.06375v1)
+  * Saining Xie, Zhuowen Tu, Holistically-Nested Edge Detection, arXiv:1504.06375. 
+ * DeepEdge [[Paper]](http://arxiv.org/pdf/1412.1123v3)
+  * Gedas Bertasius, Jianbo Shi, Lorenzo Torresani, DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, CVPR 2015.
+ * DeepContour [[Paper]](http://mc.eistar.net/UpLoadFiles/Papers/DeepContour_cvpr15.pdf)
+  * Wei Shen, Xinggang Wang, Yan Wang, Xiang Bai, Zhijiang Zhang, DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection, CVPR 2015.
 
 ## Courses
  * [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
