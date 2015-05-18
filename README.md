@@ -17,11 +17,11 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
     * Chao Dong, Yubin Deng, Chen Change Loy, Xiaoou Tang, Compression Artifacts Reduction by a Deep Convolutional Network, arXiv:1504.06993
 
 ### Image Captioning 
-Baidu/UCLA: Explain Images with Multimodal Recurrent Neural Networks(http://arxiv.org/abs/1410.1090)
-Toronto: Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models(http://arxiv.org/abs/1411.2539)
-Berkeley: Long-term Recurrent Convolutional Networks for Visual Recognition and Description(http://arxiv.org/abs/1411.4389)
-Google: Show and Tell: A Neural Image Caption Generator(http://arxiv.org/abs/1411.4555)
-Stanford: Deep Visual-Semantic Alignments for Generating Image Description(http://cs.stanford.edu/people/karpathy/deepimagesent/)
-UML/UT:  Translating Videos to Natural Language Using Deep Recurrent Neural Networks(http://arxiv.org/abs/1412.4729)
-Microsoft/CMU:  Learning a Recurrent Visual Representation for Image Caption Generation(http://arxiv.org/abs/1411.5654)
-Microsoft:  From Captions to Visual Concepts and Back(http://arxiv.org/abs/1411.4952)
+   * Baidu/UCLA: Explain Images with Multimodal Recurrent Neural Networks(http://arxiv.org/abs/1410.1090)
+   * Toronto: Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models(http://arxiv.org/abs/1411.2539)
+   * Berkeley: Long-term Recurrent Convolutional Networks for Visual Recognition and Description(http://arxiv.org/abs/1411.4389)
+   * Google: Show and Tell: A Neural Image Caption Generator(http://arxiv.org/abs/1411.4555)
+   * Stanford: Deep Visual-Semantic Alignments for Generating Image  Description(http://cs.stanford.edu/people/karpathy/deepimagesent/)
+   * UML/UT:  Translating Videos to Natural Language Using Deep Recurrent Neural Networks(http://arxiv.org/abs/1412.4729)
+   * Microsoft/CMU:  Learning a Recurrent Visual Representation for Image Caption Generation(http://arxiv.org/abs/1411.5654)
+   * Microsoft:  From Captions to Visual Concepts and Back(http://arxiv.org/abs/1411.4952)
