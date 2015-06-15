@@ -81,3 +81,5 @@ NIPS 2012.
 
 ## Tutorials
   * [CVPR 2014] [Tutorial on Deep Learning in Computer Vision](https://sites.google.com/site/deeplearningcvpr2014/)
+
+Maintainers - [Jiwon Kim](http://github.com/kjw0612), [Myungsub Choi](http://github.com/myungsub), [Jung Kwon Lee](http://github.com/deruci)
