@@ -76,6 +76,7 @@ NIPS 2012.
  * [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
 
 ## Software 
+ * Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [[Web]](http://torch.ch/)
  * Caffe: Deep learning framework by the BVLC [[Web]](http://caffe.berkeleyvision.org/)
  * MatConvNet: CNNs for MATLAB [[Web]](http://www.vlfeat.org/matconvnet/)
 
