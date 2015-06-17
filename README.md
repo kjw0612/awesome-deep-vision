@@ -7,6 +7,12 @@ CVPR 2015 Papers to be Added Soon!
 ## Contributing
 Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) or email jiwon@alum.mit.edu to add links.
 
+## Sharing
++ [Share on Twitter](http://twitter.com/home?status=https://github.com/kjw0612/awesome-deep-vision%0ADeep Learning Resources for Computer Vision)
++ [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://github.com/kjw0612/awesome-deep-vision)
++ [Share on Google Plus](https://plus.google.com/share?url=https://github.com/kjw0612/awesome-deep-vision)
++ [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/kjw0612/awesome-deep-vision&title=Awesome%20Deep%20Vision&summary=&source=)
+
 ## Table of Contents
  - [Papers](#papers)
   - [ImageNet Classification](#imagenet-classification)
