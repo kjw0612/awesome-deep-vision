@@ -102,5 +102,6 @@ NIPS 2012.
 
 ## Tutorials
   * [CVPR 2014] [Tutorial on Deep Learning in Computer Vision](https://sites.google.com/site/deeplearningcvpr2014/)
+  * [CVPR 2015] [Applied Deep Learning for Computer Vision with Torch](http://torch.ch/docs/cvpr15.html)
 
 Maintainers - [Jiwon Kim](http://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](http://github.com/myungsub), [JanghoonChoi](https://github.com/JanghoonChoi), [Jung Kwon Lee](http://github.com/deruci)
