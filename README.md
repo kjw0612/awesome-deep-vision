@@ -102,7 +102,9 @@ NIPS 2012.
  * MatConvNet: CNNs for MATLAB [[Web]](http://www.vlfeat.org/matconvnet/)
 
 ### Applications
- 
+ * Adversarial Training 
+  * Code and hyperparameters for the paper "Generative Adversarial Networks" [[Web]](https://github.com/goodfeli/adversarial)
+ * Semenatic Segmentation
  
 ## Tutorials
   * [CVPR 2014] [Tutorial on Deep Learning in Computer Vision](https://sites.google.com/site/deeplearningcvpr2014/)
