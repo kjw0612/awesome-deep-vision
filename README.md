@@ -104,6 +104,8 @@ NIPS 2012.
 ### Applications
  * Adversarial Training 
   * Code and hyperparameters for the paper "Generative Adversarial Networks" [[Web]](https://github.com/goodfeli/adversarial)
+ * Understanding and Visualizing
+  * Source code for "Understanding Deep Image Representations by Inverting Them", CVPR 2015. [[Web]](https://github.com/aravindhm/deep-goggle)
  * Semenatic Segmentation
  
 ## Tutorials
