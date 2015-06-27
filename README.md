@@ -22,6 +22,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   - [Semantic Segmentation](#semantic-segmentation)
  - [Courses](#courses)
  - [Software](#software)
+  - [Framework](#framework)
+  - [Applications](#applications)
  - [Tutorials](#tutorials)
  
 ## Papers
@@ -107,6 +109,12 @@ NIPS 2012.
  * Understanding and Visualizing
   * Source code for "Understanding Deep Image Representations by Inverting Them", CVPR 2015. [[Web]](https://github.com/aravindhm/deep-goggle)
  * Semenatic Segmentation
+  * Source code for the paper "Rich feature hierarchies for accurate object detection and semantic segmentation", CVPR 2014. [[Web]](https://github.com/rbgirshick/rcnn)
+  * Source code for the paper "Fully Convolutional Networks for Semantic Segmentation", CVPR 2015. [[Web]](https://github.com/longjon/caffe/tree/future)
+ * Super-Resolution
+  * Image Super-Resolution for Anime-Style-Art [[Web]](https://github.com/nagadomi/waifu2x)
+ * Edge Detection
+  * Source code for the paper "DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection" CVPR 2015. [[Web]](https://github.com/shenwei1231/DeepContour)
  
 ## Tutorials
   * [CVPR 2014] [Tutorial on Deep Learning in Computer Vision](https://sites.google.com/site/deeplearningcvpr2014/)
