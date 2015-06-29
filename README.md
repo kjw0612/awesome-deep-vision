@@ -62,9 +62,10 @@ NIPS 2012.
 ### Low-Level Vision
  * Optical Flow (FlowNet) [[Paper]](http://arxiv.org/pdf/1504.06852v2)
   * Philipp Fischer, Alexey Dosovitskiy, Eddy Ilg, Philip Häusser, Caner Hazırbaş, Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox, FlowNet: Learning Optical Flow with Convolutional Networks, arXiv:1504.06852.
- * Super-Resolution (SRCNN) [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) [[Paper-ECCV14]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) [[Paper-arXiv15]](http://arxiv.org/pdf/1501.00092v1.pdf)
+ * Super-Resolution (SRCNN) [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) [[Paper-ECCV14]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) [[Paper-arXiv15]](http://arxiv.org/pdf/1501.00092v1.pdf)[[Paper ICONIP-2014]](http://www.brml.org/uploads/tx_sibibtex/281.pdf)
     * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Learning a Deep Convolutional Network for Image Super-Resolution, in ECCV 2014
     * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang. Image Super-Resolution Using Deep Convolutional Networks, arXiv:1501.00092 (2015)
+    * Osendorfer, Christian, Hubert Soyer, and Patrick van der Smagt. Image Super-Resolution with Fast Approximate Convolutional Sparse Coding. Neural Information Processing. Springer International Publishing, 2014. 
  * Compression Artifacts Reduction [[Paper-arXiv15]](http://arxiv.org/pdf/1504.06993v1)
    * Chao Dong, Yubin Deng, Chen Change Loy, Xiaoou Tang, Compression Artifacts Reduction by a Deep Convolutional Network, arXiv:1504.06993
  * Non-Uniform Motion Blur Removal [[Paper]](http://arxiv.org/pdf/1503.00593v3)
