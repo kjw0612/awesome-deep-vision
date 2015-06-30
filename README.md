@@ -80,6 +80,8 @@ NIPS 2012.
   *  Li Xu, Jimmy SJ. Ren, Ce Liu, Jiaya Jia, "Deep Convolutional Neural Network for Image Deconvolution" Advances in Neural Information Processing Systems (NIPS), 2014.
  *  Deep Edge-Aware Filter [[Paper]](http://jmlr.org/proceedings/papers/v37/xub15.pdf)
   *  Li Xu, Jimmy SJ. Ren, Qiong Yan, Renjie Liao, Jiaya Jia "Deep Edge-Aware Filters" International Conference on Machine Learning (ICML), 2015.
+ * Computing the Stereo Matching Cost with a Convolutional Neural Network [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zbontar_Computing_the_Stereo_2015_CVPR_paper.pdf)
+  *  Jure Žbontar, Yann LeCun, Computing the Stereo Matching Cost with a Convolutional Neural Network, CVPR 2015.
 
 ### Edge Detection
  * Holistically-Nested Edge Detection [[Paper]](http://arxiv.org/pdf/1504.06375v1)
