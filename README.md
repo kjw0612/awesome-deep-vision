@@ -78,6 +78,8 @@ NIPS 2012.
   * Jian Sun, Wenfei Cao, Zongben Xu, Jean Ponce, Learning a Convolutional Neural Network for Non-uniform Motion Blur Removal, CVPR 2015. 
  * Image Deconvolution [[Web]](http://lxu.me/projects/dcnn/) [[Paper]](http://lxu.me/mypapers/dcnn_nips14.pdf)
   *  Li Xu, Jimmy SJ. Ren, Ce Liu, Jiaya Jia, "Deep Convolutional Neural Network for Image Deconvolution" Advances in Neural Information Processing Systems (NIPS), 2014.
+ *  Deep Edge-Aware Filter [[Paper]](http://jmlr.org/proceedings/papers/v37/xub15.pdf)
+  *  Li Xu, Jimmy SJ. Ren, Qiong Yan, Renjie Liao, Jiaya Jia "Deep Edge-Aware Filters" International Conference on Machine Learning (ICML), 2015.
 
 ### Edge Detection
  * Holistically-Nested Edge Detection [[Paper]](http://arxiv.org/pdf/1504.06375v1)
