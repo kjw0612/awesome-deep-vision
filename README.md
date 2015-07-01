@@ -57,7 +57,7 @@ NIPS 2012.
    * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, ECCV 2014.
   * Fast R-CNN, Microsoft Research [[Paper]] (http://arxiv.org/pdf/1504.08083)
    * Ross Girshick, Fast R-CNN, arXiv:1504.08083
-  * Faster-RCNN, Microsoft Research [[Paper]] (http://arxiv.org/pdf/1506.01497)
+  * Faster R-CNN, Microsoft Research [[Paper]] (http://arxiv.org/pdf/1506.01497)
    * Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497
   * R-CNN minus R, Oxford [[Paper]] (http://arxiv.org/pdf/1506.06981)
    * Karel Lenc, Andrea Vedaldi, R-CNN minus R, arXiv:1506.06981
