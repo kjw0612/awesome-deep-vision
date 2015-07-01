@@ -38,6 +38,9 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ## Papers
 
 ### ImageNet Classification
+![classification](https://cloud.githubusercontent.com/assets/5226447/8451949/327b9566-2022-11e5-8b34-53b4a64c13ad.PNG)
+(from Krizhevsky, A., Sutskever, I. and Hinton, G. E, ImageNet Classification with Deep Convolutional Neural Networks NIPS 2012.)
+
   * Microsoft (PReLu/Weight Initialization) [[Paper]](http://arxiv.org/pdf/1502.01852v1)
     * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, arXiv:1502.01852.
   * Batch Normalization [[Paper]](http://arxiv.org/pdf/1502.03167v3)
@@ -51,6 +54,9 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 NIPS 2012.
 
 ### Object Detection
+![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
+(from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497)
+
   * OverFeat, NYU [[Paper]](http://arxiv.org/pdf/1311.2901v3)
    * Matthrew Zeiler, Rob Fergus, Visualizing and Understanding Convolutional Networks, ECCV 2014.
   * R-CNN, UC Berkeley [[Paper-CVPR14]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[Paper-arXiv14]](http://arxiv.org/pdf/1311.2524v5)
@@ -83,6 +89,9 @@ NIPS 2012.
   *  Jure Žbontar, Yann LeCun, Computing the Stereo Matching Cost with a Convolutional Neural Network, CVPR 2015.
 
 ### Edge Detection
+![edge_detection](https://cloud.githubusercontent.com/assets/5226447/8452371/93ca6f7e-2025-11e5-90f2-d428fd5ff7ac.PNG)
+(from Gedas Bertasius, Jianbo Shi, Lorenzo Torresani, DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, CVPR 2015.)
+
  * Holistically-Nested Edge Detection [[Paper]](http://arxiv.org/pdf/1504.06375v1)
   * Saining Xie, Zhuowen Tu, Holistically-Nested Edge Detection, arXiv:1504.06375. 
  * DeepEdge [[Paper]](http://arxiv.org/pdf/1412.1123v3)
@@ -91,6 +100,9 @@ NIPS 2012.
   * Wei Shen, Xinggang Wang, Yan Wang, Xiang Bai, Zhijiang Zhang, DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection, CVPR 2015.
 
 ### Semantic Segmentation
+![semantic_segmantation](https://cloud.githubusercontent.com/assets/5226447/8452076/0ba8340c-2023-11e5-88bc-bebf4509b6bb.PNG)
+(from Jifeng Dai, Kaiming He, Jian Sun, BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation, arXiv:1503.01640)
+
   * Learning Hierarchical Features for Scene Labeling [[Paper-ICML12]](http://yann.lecun.com/exdb/publis/pdf/farabet-icml-12.pdf) [[Paper-PAMI13]](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
    * Clement Farabet, Camille Couprie, Laurent Najman, Yann LeCun, Scene Parsing with Multiscale Feature Learning, Purity Trees, and Optimal Covers, ICML, 2012.
    * Clement Farabet, Camille Couprie, Laurent Najman, Yann LeCun, Learning Hierarchical Features for Scene Labeling, PAMI, 2013.
@@ -102,6 +114,9 @@ NIPS 2012.
    * Jifeng Dai, Kaiming He, Jian Sun, BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation, arXiv:1503.01640
 
 ### Visual Attention and Saliency
+![saliency](https://cloud.githubusercontent.com/assets/5226447/8452391/cdaa3c7e-2025-11e5-81be-ee5243fe9e7c.png)
+(from Federico Perazzi, Philipp Krahenbuhl, Yael Pritch, Alexander Hornung, Saliency Filters: Contrast Based Filtering for Salient Region Detection, CVPR, 2012)
+
   * Mr-CNN [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Predicting_Eye_Fixations_2015_CVPR_paper.pdf)
    * Nian Liu, Junwei Han, Dingwen Zhang, Shifeng Wen, Tianming Liu, Predicting Eye Fixations using Convolutional Neural Networks, CVPR, 2015.
   * Learning a Sequential Search for Landmarks [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Singh_Learning_a_Sequential_2015_CVPR_paper.pdf)
@@ -118,6 +133,9 @@ NIPS 2012.
    * Mircea Cimpoi, Subhransu Maji, Andrea Vedaldi, Deep Filter Banks for Texture Recognition and Segmentation, CVPR, 2015.
    
 ### Understanding CNN
+![understanding](https://cloud.githubusercontent.com/assets/5226447/8452083/1aaa0066-2023-11e5-800b-2248ead51584.PNG)
+(from Aravindh Mahendran, Andrea Vedaldi, Understanding Deep Image Representations by Inverting Them, CVPR, 2015.)
+
   * Equivariance and Equivalence of Representations [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lenc_Understanding_Image_Representations_2015_CVPR_paper.pdf)
    * Karel Lenc, Andrea Vedaldi, Understanding image representations by measuring their equivariance and equivalence, CVPR, 2015.
   * Deep Neural Networks Are Easily Fooled [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.pdf)
@@ -127,6 +145,9 @@ NIPS 2012.
    
 
 ### Image Captioning 
+![image_captioning](https://cloud.githubusercontent.com/assets/5226447/8452051/e8f81030-2022-11e5-85db-c68e7d8251ce.PNG)
+(from Andrej Karpathy, Li Fei-Fei, Deep Visual-Semantic Alignments for Generating Image Description, CVPR (2015).)
+
    * Baidu / UCLA [[Paper]](http://arxiv.org/pdf/1410.1090v1)
       * Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Alan L. Yuille, Explain Images with Multimodal Recurrent Neural Networks, arXiv:1410.1090 (2014).
    * Toronto [[Paper]](http://arxiv.org/pdf/1411.2539v1)
@@ -155,6 +176,9 @@ NIPS 2012.
   * Subhashini Venugopalan, Marcus Rohrbach, Jeff Donahue, Raymond Mooney, Trevor Darrell, Kate Saenko, Sequence to Sequence--Video to Text, arXiv:1505.00487
 
 ### Question Answering
+![question_answering](https://cloud.githubusercontent.com/assets/5226447/8452068/ffe7b1f6-2022-11e5-87ab-4f6d4696c220.PNG)
+(from Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, VQA: Visual Question Answering, CVPR 2015 SUNw:Scene Understanding workshop)
+
 * MSR / Virginia Tech. [[Web](http://www.visualqa.org/)] [[Paper](http://arxiv.org/pdf/1505.00468v1.pdf)]
   * Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, VQA: Visual Question Answering, CVPR 2015 SUNw:Scene Understanding workshop
 * MPI / Berkeley [[Web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/visual-turing-challenge/)] [[Paper](http://arxiv.org/pdf/1505.01121v2.pdf)]
