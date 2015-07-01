@@ -62,13 +62,16 @@
 
 <ul>
 <li><a href="#imagenet-classification">ImageNet Classification</a></li>
-<li><a href="#image-captioning">Image Captioning</a></li>
+<li><a href="#object-detection">Object Detection</a></li>
 <li><a href="#low-level-vision">Low-Level Vision</a></li>
 <li><a href="#edge-detection">Edge Detection</a></li>
 <li><a href="#semantic-segmentation">Semantic Segmentation</a></li>
 <li><a href="#visual-attention-and-saliency">Visual Attention and Saliency</a></li>
 <li><a href="#object-recognition">Object Recognition</a></li>
 <li><a href="#understanding-cnn">Understanding CNN</a></li>
+<li><a href="#image-captioning">Image Captioning</a></li>
+<li><a href="#video-captioning">Video Captioning</a></li>
+<li><a href="#question-answering">Question Answering</a></li>
 <li><a href="#other-topics">Other Topics</a></li>
 </ul>
 </li>
@@ -128,55 +131,43 @@ NIPS 2012.</li>
 </ul>
 
 <h3>
-<a id="image-captioning" class="anchor" href="#image-captioning" aria-hidden="true"><span class="octicon octicon-link"></span></a>Image Captioning</h3>
+<a id="object-detection" class="anchor" href="#object-detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>Object Detection</h3>
 
 <ul>
-<li>Baidu/UCLA <a href="http://arxiv.org/pdf/1410.1090v1">[Paper]</a>
+<li>OverFeat, NYU <a href="http://arxiv.org/pdf/1311.2901v3">[Paper]</a>
 
 <ul>
-<li>Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Alan L. Yuille, Explain Images with Multimodal Recurrent Neural Networks, arXiv:1410.1090 (2014).</li>
+<li>Matthrew Zeiler, Rob Fergus, Visualizing and Understanding Convolutional Networks, ECCV 2014.</li>
 </ul>
 </li>
-<li>Toronto <a href="http://arxiv.org/pdf/1411.2539v1">[Paper]</a>
+<li>R-CNN, UC Berkeley <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf">[Paper-CVPR14]</a> <a href="http://arxiv.org/pdf/1311.2524v5">[Paper-arXiv14]</a>
 
 <ul>
-<li>Ryan Kiros, Ruslan Salakhutdinov, Richard S. Zemel, Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models, arXiv:1411.2539 (2014).</li>
+<li>Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation, CVPR, 2014.</li>
 </ul>
 </li>
-<li>Berkeley <a href="http://arxiv.org/pdf/1411.4389v3">[Paper]</a>
+<li>SPP, Microsoft Research <a href="http://arxiv.org/pdf/1406.4729">[Paper]</a>
 
 <ul>
-<li>Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell, Long-term Recurrent Convolutional Networks for Visual Recognition and Description, arXiv:1411.4389 (2014).</li>
+<li>Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, ECCV 2014.</li>
 </ul>
 </li>
-<li>Google <a href="http://arxiv.org/pdf/1411.4555v2">[Paper]</a>
+<li>Fast R-CNN, Microsoft Research <a href="http://arxiv.org/pdf/1504.08083">[Paper]</a>
 
 <ul>
-<li>Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan, Show and Tell: A Neural Image Caption Generator, arXiv:1411.4555 (2014). </li>
+<li>Ross Girshick, Fast R-CNN, arXiv:1504.08083</li>
 </ul>
 </li>
-<li>Stanford <a href="http://cs.stanford.edu/people/karpathy/deepimagesent/">[Web]</a> <a href="http://cs.stanford.edu/people/karpathy/cvpr2015.pdf">[Paper]</a>
+<li>Faster R-CNN, Microsoft Research <a href="http://arxiv.org/pdf/1506.01497">[Paper]</a>
 
 <ul>
-<li>Andrej Karpathy, Li Fei-Fei, Deep Visual-Semantic Alignments for Generating Image Description, CVPR (2015).</li>
+<li>Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497</li>
 </ul>
 </li>
-<li>UML/UT <a href="http://arxiv.org/pdf/1412.4729v3">[Paper]</a>
+<li>R-CNN minus R, Oxford <a href="http://arxiv.org/pdf/1506.06981">[Paper]</a>
 
 <ul>
-<li>Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko, Translating Videos to Natural Language Using Deep Recurrent Neural Networks, NAACL-HLT 2015. </li>
-</ul>
-</li>
-<li>Microsoft/CMU <a href="http://arxiv.org/pdf/1411.5654v1">[Paper]</a>
-
-<ul>
-<li>Xinlei Chen, C. Lawrence Zitnick, Learning a Recurrent Visual Representation for Image Caption Generation, arXiv:1411.5654.</li>
-</ul>
-</li>
-<li>Microsoft <a href="http://arxiv.org/pdf/1411.4952v3">[Paper]</a>
-
-<ul>
-<li>Hao Fang, Saurabh Gupta, Forrest Iandola, Rupesh Srivastava, Li Deng, Piotr Dollár, Jianfeng Gao, Xiaodong He, Margaret Mitchell, John C. Platt, C. Lawrence Zitnick, Geoffrey Zweig, From Captions to Visual Concepts and Back, CVPR 2015. </li>
+<li>Karel Lenc, Andrea Vedaldi, R-CNN minus R, arXiv:1506.06981</li>
 </ul>
 </li>
 </ul>
@@ -264,12 +255,6 @@ NIPS 2012.</li>
 <ul>
 <li>Clement Farabet, Camille Couprie, Laurent Najman, Yann LeCun, Scene Parsing with Multiscale Feature Learning, Purity Trees, and Optimal Covers, ICML, 2012.</li>
 <li>Clement Farabet, Camille Couprie, Laurent Najman, Yann LeCun, Learning Hierarchical Features for Scene Labeling, PAMI, 2013.</li>
-</ul>
-</li>
-<li>R-CNN <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf">[Paper-CVPR14]</a> <a href="http://arxiv.org/pdf/1311.2524v5">[Paper-arXiv14]</a>
-
-<ul>
-<li>Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation, CVPR, 2014.</li>
 </ul>
 </li>
 <li>Fully Convolutional Networks for Semantic Segmentation <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf">[Paper-CVPR15]</a> <a href="http://arxiv.org/pdf/1411.4038v2">[Paper-arXiv15]</a>
@@ -365,6 +350,120 @@ NIPS 2012.</li>
 </ul>
 
 <h3>
+<a id="image-captioning" class="anchor" href="#image-captioning" aria-hidden="true"><span class="octicon octicon-link"></span></a>Image Captioning</h3>
+
+<ul>
+<li>Baidu / UCLA <a href="http://arxiv.org/pdf/1410.1090v1">[Paper]</a>
+
+<ul>
+<li>Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Alan L. Yuille, Explain Images with Multimodal Recurrent Neural Networks, arXiv:1410.1090 (2014).</li>
+</ul>
+</li>
+<li>Toronto <a href="http://arxiv.org/pdf/1411.2539v1">[Paper]</a>
+
+<ul>
+<li>Ryan Kiros, Ruslan Salakhutdinov, Richard S. Zemel, Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models, arXiv:1411.2539 (2014).</li>
+</ul>
+</li>
+<li>Berkeley <a href="http://arxiv.org/pdf/1411.4389v3">[Paper]</a>
+
+<ul>
+<li>Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell, Long-term Recurrent Convolutional Networks for Visual Recognition and Description, arXiv:1411.4389 (2014).</li>
+</ul>
+</li>
+<li>Google <a href="http://arxiv.org/pdf/1411.4555v2">[Paper]</a>
+
+<ul>
+<li>Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan, Show and Tell: A Neural Image Caption Generator, arXiv:1411.4555 (2014). </li>
+</ul>
+</li>
+<li>Stanford <a href="http://cs.stanford.edu/people/karpathy/deepimagesent/">[Web]</a> <a href="http://cs.stanford.edu/people/karpathy/cvpr2015.pdf">[Paper]</a>
+
+<ul>
+<li>Andrej Karpathy, Li Fei-Fei, Deep Visual-Semantic Alignments for Generating Image Description, CVPR (2015).</li>
+</ul>
+</li>
+<li>UML / UT <a href="http://arxiv.org/pdf/1412.4729v3">[Paper]</a>
+
+<ul>
+<li>Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko, Translating Videos to Natural Language Using Deep Recurrent Neural Networks, NAACL-HLT 2015. </li>
+</ul>
+</li>
+<li>Microsoft / CMU <a href="http://arxiv.org/pdf/1411.5654v1">[Paper]</a>
+
+<ul>
+<li>Xinlei Chen, C. Lawrence Zitnick, Learning a Recurrent Visual Representation for Image Caption Generation, arXiv:1411.5654.</li>
+</ul>
+</li>
+<li>Microsoft <a href="http://arxiv.org/pdf/1411.4952v3">[Paper]</a>
+
+<ul>
+<li>Hao Fang, Saurabh Gupta, Forrest Iandola, Rupesh Srivastava, Li Deng, Piotr Dollár, Jianfeng Gao, Xiaodong He, Margaret Mitchell, John C. Platt, C. Lawrence Zitnick, Geoffrey Zweig, From Captions to Visual Concepts and Back, CVPR 2015. </li>
+</ul>
+</li>
+</ul>
+
+<h3>
+<a id="video-captioning" class="anchor" href="#video-captioning" aria-hidden="true"><span class="octicon octicon-link"></span></a>Video Captioning</h3>
+
+<ul>
+<li>Berkeley [<a href="http://jeffdonahue.com/lrcn/">Web</a>] [<a href="http://arxiv.org/pdf/1411.4389v3.pdf">Paper</a>]
+
+<ul>
+<li>Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell, Long-term Recurrent Convolutional Networks for Visual Recognition and Description, CVPR 2015</li>
+</ul>
+</li>
+<li>UT / UML / Berkeley [<a href="http://arxiv.org/pdf/1412.4729v3.pdf">Paper</a>]
+
+<ul>
+<li>Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko, Translating Videos to Natural Language Using Deep Recurrent Neural Networks, arXiv:1412.4729</li>
+</ul>
+</li>
+<li>Microsoft [<a href="http://arxiv.org/pdf/1505.01861v1.pdf">Paper</a>]
+
+<ul>
+<li>Yingwei Pan, Tao Mei, Ting Yao, Houqiang Li, Yong Rui, Joint Modeling Embedding and Translation to Bridge Video and Language, arXiv:1505.01861</li>
+</ul>
+</li>
+<li>UT / Berkeley / UML [<a href="http://arxiv.org/pdf/1505.00487v2.pdf">Paper</a>]
+
+<ul>
+<li>Subhashini Venugopalan, Marcus Rohrbach, Jeff Donahue, Raymond Mooney, Trevor Darrell, Kate Saenko, Sequence to Sequence--Video to Text, arXiv:1505.00487</li>
+</ul>
+</li>
+</ul>
+
+<h3>
+<a id="question-answering" class="anchor" href="#question-answering" aria-hidden="true"><span class="octicon octicon-link"></span></a>Question Answering</h3>
+
+<ul>
+<li>MSR / Virginia Tech. [<a href="http://www.visualqa.org/">Web</a>] [<a href="http://arxiv.org/pdf/1505.00468v1.pdf">Paper</a>]
+
+<ul>
+<li>Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, VQA: Visual Question Answering, CVPR 2015 SUNw:Scene Understanding workshop</li>
+</ul>
+</li>
+<li>MPI / Berkeley [<a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/visual-turing-challenge/">Web</a>] [<a href="http://arxiv.org/pdf/1505.01121v2.pdf">Paper</a>]
+
+<ul>
+<li>Mateusz Malinowski, Marcus Rohrbach, Mario Fritz, Ask Your Neurons: A Neural-based Approach to Answering Questions about Images, arXiv:1505.01121</li>
+</ul>
+</li>
+<li>Toronto [<a href="http://arxiv.org/pdf/1505.02074v1.pdf">Paper</a>] [<a href="http://www.cs.toronto.edu/%7Emren/imageqa/data/cocoqa/">Dataset</a>]
+
+<ul>
+<li>Mengye Ren, Ryan Kiros, Richard Zemel, Image Question Answering: A Visual Semantic Embedding Model and a New Dataset, arXiv:1505.02074 / ICML 2015 deep learning workshop</li>
+</ul>
+</li>
+<li>Baidu / UCLA [<a href="http://arxiv.org/pdf/1505.05612v1.pdf">Paper</a>] [<a href="">Dataset</a>]
+
+<ul>
+<li>Hauyuan Gao, Junhua Mao, Jie Zhou, Zhiheng Huang, Lei Wang, Wei Xu, Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering, arXiv:1505.05612</li>
+</ul>
+</li>
+</ul>
+
+<h3>
 <a id="other-topics" class="anchor" href="#other-topics" aria-hidden="true"><span class="octicon octicon-link"></span></a>Other Topics</h3>
 
 <ul>
@@ -445,10 +544,24 @@ NIPS 2012.</li>
 <a id="videos" class="anchor" href="#videos" aria-hidden="true"><span class="octicon octicon-link"></span></a>Videos</h2>
 
 <ul>
+<li>Talks
+
+<ul>
 <li><a href="https://www.youtube.com/watch?v=n1ViNeWhC24">Deep Learning, Self-Taught Learning and Unsupervised Feature Learning By Andrew Ng</a></li>
-<li><a href="https://www.youtube.com/watch?v=sc-KbuZqGkI">Recent Developments in Deep Learning By Geoff Hinton</a></li>
-<li><a href="https://www.youtube.com/watch?v=sc-KbuZqGkI">The Unreasonable Effectiveness of Deep Learning by Yann LeCun</a></li>
+<li> <a href="https://www.youtube.com/watch?v=sc-KbuZqGkI">Recent Developments in Deep Learning By Geoff Hinton</a>
+</li>
+<li> <a href="https://www.youtube.com/watch?v=sc-KbuZqGkI">The Unreasonable Effectiveness of Deep Learning by Yann LeCun</a>
+</li>
 <li><a href="https://www.youtube.com/watch?v=4xsVFLnHC_0">Deep Learning of Representations by Yoshua bengio</a></li>
+</ul>
+</li>
+<li>Courses
+
+<ul>
+<li>
+<a href="University%20of%20Oxford">Deep Learning Course – Nando de Freitas</a>(<a href="http://www.computervisiontalks.com/tag/deep-learning-course/">http://www.computervisiontalks.com/tag/deep-learning-course/</a>)</li>
+</ul>
+</li>
 </ul>
 
 <h2>
@@ -484,7 +597,7 @@ NIPS 2012.</li>
 </li>
 </ul>
 </li>
-<li>Semenatic Segmentation
+<li>Semantic Segmentation
 
 <ul>
 <li>Source code for the paper "Rich feature hierarchies for accurate object detection and semantic segmentation", CVPR 2014. <a href="https://github.com/rbgirshick/rcnn">[Web]</a>
