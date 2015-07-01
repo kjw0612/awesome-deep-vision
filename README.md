@@ -169,10 +169,13 @@ NIPS 2012.
   * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
 
 ## Videos
- * [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning By Andrew Ng](https://www.youtube.com/watch?v=n1ViNeWhC24)
- * [Recent Developments in Deep Learning By Geoff Hinton](https://www.youtube.com/watch?v=sc-KbuZqGkI)
- * [The Unreasonable Effectiveness of Deep Learning by Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI)
- * [Deep Learning of Representations by Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)
+ * Talks
+  * [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning By Andrew Ng](https://www.youtube.com/watch?v=n1ViNeWhC24)
+  *  [Recent Developments in Deep Learning By Geoff Hinton](https://www.youtube.com/watch?v=sc-KbuZqGkI)
+  *  [The Unreasonable Effectiveness of Deep Learning by Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI)
+  * [Deep Learning of Representations by Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)
+ * Courses
+  * [Deep Learning Course – Nando de Freitas] (University of Oxford)(http://www.computervisiontalks.com/tag/deep-learning-course/)
 
 ## Software 
 ### Framework
