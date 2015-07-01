@@ -15,6 +15,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ## Table of Contents
  - [Papers](#papers)
   - [ImageNet Classification](#imagenet-classification)
+  - [Object Detection] (#object-detection)
   - [Image Captioning](#image-captioning)
   - [Low-Level Vision](#low-level-vision)
   - [Edge Detection](#edge-detection)
@@ -47,6 +48,20 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
     * Krizhevsky, A., Sutskever, I. and Hinton, G. E, ImageNet Classification with Deep Convolutional Neural Networks
 NIPS 2012.
 
+### Object Detection
+  * OverFeat, NYU [[Paper]](http://arxiv.org/pdf/1311.2901v3)
+   * Matthrew Zeiler, Rob Fergus, Visualizing and Understanding Convolutional Networks, ECCV 2014.
+  * R-CNN, UC Berkeley [[Paper-CVPR14]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[Paper-arXiv14]](http://arxiv.org/pdf/1311.2524v5)
+   * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation, CVPR, 2014.
+  * SPP, Microsoft Research [[Paper]](http://arxiv.org/pdf/1406.4729)
+   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, ECCV 2014.
+  * Fast R-CNN, Microsoft Research [[Paper]] (http://arxiv.org/pdf/1504.08083)
+   * Ross Girshick, Fast R-CNN, arXiv:1504.08083
+  * Faster-RCNN, Microsoft Research [[Paper]] (http://arxiv.org/pdf/1506.01497)
+   * Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497
+  * R-CNN minus R, Oxford [[Paper]] (http://arxiv.org/pdf/1506.06981)
+   * Karel Lenc, Andrea Vedaldi, R-CNN minus R, arXiv:1506.06981
+ 
 ### Image Captioning 
    * Baidu/UCLA [[Paper]](http://arxiv.org/pdf/1410.1090v1)
       * Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Alan L. Yuille, Explain Images with Multimodal Recurrent Neural Networks, arXiv:1410.1090 (2014).
@@ -95,8 +110,6 @@ NIPS 2012.
   * Learning Hierarchical Features for Scene Labeling [[Paper-ICML12]](http://yann.lecun.com/exdb/publis/pdf/farabet-icml-12.pdf) [[Paper-PAMI13]](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
    * Clement Farabet, Camille Couprie, Laurent Najman, Yann LeCun, Scene Parsing with Multiscale Feature Learning, Purity Trees, and Optimal Covers, ICML, 2012.
    * Clement Farabet, Camille Couprie, Laurent Najman, Yann LeCun, Learning Hierarchical Features for Scene Labeling, PAMI, 2013.
-  * R-CNN [[Paper-CVPR14]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[Paper-arXiv14]](http://arxiv.org/pdf/1311.2524v5)
-   * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation, CVPR, 2014.
   * Fully Convolutional Networks for Semantic Segmentation [[Paper-CVPR15]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) [[Paper-arXiv15]](http://arxiv.org/pdf/1411.4038v2)
    * Jonathan Long, Evan Shelhamer, Trevor Darrell, Fully Convolutional Networks for Semantic Segmentation, CVPR, 2015.
   * Conditional Random Fields as Recurrent Neural Networks [[Paper]](http://arxiv.org/pdf/1502.03240v2)
