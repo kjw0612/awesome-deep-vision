@@ -198,7 +198,7 @@ NIPS 2012.
   *  [The Unreasonable Effectiveness of Deep Learning by Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI)
   * [Deep Learning of Representations by Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)
  * Courses
-  * [Deep Learning Course – Nando de Freitas] (University of Oxford)(http://www.computervisiontalks.com/tag/deep-learning-course/)
+  * [Deep Learning Course – Nando de Freitas@Oxford](http://www.computervisiontalks.com/tag/deep-learning-course/)
 
 ## Software 
 ### Framework
