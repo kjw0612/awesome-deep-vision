@@ -113,8 +113,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
    * Clement Farabet, Camille Couprie, Laurent Najman, Yann LeCun, Learning Hierarchical Features for Scene Labeling, PAMI, 2013.
 
 ### Visual Attention and Saliency
-![saliency](https://cloud.githubusercontent.com/assets/5226447/8452391/cdaa3c7e-2025-11e5-81be-ee5243fe9e7c.png)
-(from Federico Perazzi, Philipp Krahenbuhl, Yael Pritch, Alexander Hornung, Saliency Filters: Contrast Based Filtering for Salient Region Detection, CVPR, 2012.)
+![saliency](https://cloud.githubusercontent.com/assets/5226447/8492362/7ec65b88-2183-11e5-978f-017e45ddba32.png)
+(from Nian Liu, Junwei Han, Dingwen Zhang, Shifeng Wen, Tianming Liu, Predicting Eye Fixations using Convolutional Neural Networks, CVPR, 2015.)
 
   * Mr-CNN [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Predicting_Eye_Fixations_2015_CVPR_paper.pdf)
    * Nian Liu, Junwei Han, Dingwen Zhang, Shifeng Wen, Tianming Liu, Predicting Eye Fixations using Convolutional Neural Networks, CVPR, 2015.
