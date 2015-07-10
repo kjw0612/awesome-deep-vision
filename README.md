@@ -18,7 +18,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ## Table of Contents
  - [Papers](#papers)
   - [ImageNet Classification](#imagenet-classification)
-  - [Object Detection] (#object-detection)
+  - [Object Detection](#object-detection)
+  - [Object Tracking](#object-tracking)
   - [Low-Level Vision](#low-level-vision)
   - [Edge Detection](#edge-detection)
   - [Semantic Segmentation](#semantic-segmentation)
@@ -72,6 +73,11 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * R-CNN minus R, Oxford [[Paper]] (http://arxiv.org/pdf/1506.06981)
    * Karel Lenc, Andrea Vedaldi, R-CNN minus R, arXiv:1506.06981.
 
+### Object Tracking
+ * Seunghoon Hong, Tackgeun You, Suha Kwak, Bohyung Han, Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network, arXiv:1502.06796. [[Paper]](http://arxiv.org/pdf/1502.06796)
+ * Hanxi Li, Yi Li and Fatih Porikli, DeepTrack: Learning Discriminative Feature Representations by Convolutional Neural Networks for Visual Tracking, BMVC, 2014. [[Paper]](http://www.bmva.org/bmvc/2014/files/paper028.pdf)
+ * N Wang, DY Yeung, Learning a Deep Compact Image Representation for Visual Tracking, NIPS, 2013. [[Paper]](winsty.net/papers/dlt.pdf)
+
 ### Low-Level Vision
  * Optical Flow (FlowNet) [[Paper]](http://arxiv.org/pdf/1504.06852v2)
   * Philipp Fischer, Alexey Dosovitskiy, Eddy Ilg, Philip Häusser, Caner Hazırbaş, Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox, FlowNet: Learning Optical Flow with Convolutional Networks, arXiv:1504.06852.
@@ -114,6 +120,11 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Learning Hierarchical Features for Scene Labeling [[Paper-ICML12]](http://yann.lecun.com/exdb/publis/pdf/farabet-icml-12.pdf) [[Paper-PAMI13]](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)
    * Clement Farabet, Camille Couprie, Laurent Najman, Yann LeCun, Scene Parsing with Multiscale Feature Learning, Purity Trees, and Optimal Covers, ICML, 2012.
    * Clement Farabet, Camille Couprie, Laurent Najman, Yann LeCun, Learning Hierarchical Features for Scene Labeling, PAMI, 2013.
+  * DeepLab
+   *  G Papandreou, LC Chen, K Murphy, AL Yuille, Weakly-and semi-supervised learning of a DCNN for semantic image segmentation, arXiv:1502.02734. [[Paper]](http://arxiv.org/pdf/1502.02734)
+  * POSTECH
+   * Hyeonwoo Noh, Seunghoon Hong, Bohyung Han, Learning Deconvolution Network for Semantic Segmentation, arXiv:1505.04366. [[Paper]](http://arxiv.org/pdf/1505.04366)
+   * Seunghoon Hong, Hyeonwoo Noh, Bohyung Han, Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation, arXiv:1506.04924. [[Paper]](http://arxiv.org/pdf/1506.04924)
 
 ### Visual Attention and Saliency
 ![saliency](https://cloud.githubusercontent.com/assets/5226447/8492362/7ec65b88-2183-11e5-978f-017e45ddba32.png)
