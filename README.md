@@ -72,6 +72,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
    * Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.
   * R-CNN minus R, Oxford [[Paper]] (http://arxiv.org/pdf/1506.06981)
    * Karel Lenc, Andrea Vedaldi, R-CNN minus R, arXiv:1506.06981.
+  * Russell Stewart, Mykhaylo Andriluka, End-to-end people detection in crowded scenes [[Paper]] (http://arxiv.org/abs/1506.04878)
 
 ### Object Tracking
  * Seunghoon Hong, Tackgeun You, Suha Kwak, Bohyung Han, Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network, arXiv:1502.06796. [[Paper]](http://arxiv.org/pdf/1502.06796)
@@ -252,6 +253,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
    * Fang Wang, Le Kang, Yi Li, Sketch-based 3D Shape Retrieval using Convolutional Neural Networks, CVPR, 2015.
   * Generate image [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
    * Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox, Learning to Generate Chairs with Convolutional Neural Networks, CVPR, 2015.
+  * Artistic Style [[Paper]](http://arxiv.org/pdf/1506.04878v3)
+   * Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, A Neural Algorithm of Artistic Style
 
 ## Courses
  * Deep Vision
