@@ -255,7 +255,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
    * Fang Wang, Le Kang, Yi Li, Sketch-based 3D Shape Retrieval using Convolutional Neural Networks, CVPR, 2015.
   * Generate image [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
    * Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox, Learning to Generate Chairs with Convolutional Neural Networks, CVPR, 2015.
-  * Artistic Style [[Paper]](http://arxiv.org/pdf/1506.04878v3)
+  * Artistic Style [[Paper]](http://arxiv.org/pdf/1506.04878v3) [[Code]](https://github.com/jcjohnson/neural-style)
    * Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, A Neural Algorithm of Artistic Style.
 
 ## Courses
