@@ -268,6 +268,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
    * Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus, Deep Generative Image Models using a ￼Laplacian Pyramid of Adversarial Networks, NIPS, 2015. [[Paper]](http://arxiv.org/abs/1506.05751)
   * Artistic Style [[Paper]](http://arxiv.org/pdf/1506.04878v3) [[Code]](https://github.com/jcjohnson/neural-style)
    * Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, A Neural Algorithm of Artistic Style.
+  * Human Gaze Estimation
+   * Xucong Zhang, Yusuke Sugano, Mario Fritz, Andreas Bulling, Appearance-Based Gaze Estimation in the Wild, CVPR, 2015. [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Appearance-Based_Gaze_Estimation_2015_CVPR_paper.pdf)
 
 ## Courses
  * Deep Vision
