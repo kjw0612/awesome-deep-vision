@@ -7,7 +7,7 @@ Maintainers - [Jiwon Kim](http://github.com/kjw0612), [Heesoo Myeong](https://gi
 We are looking for a maintainer! Let me know (jiwon@alum.mit.edu) if interested.
 
 ## Contributing
-Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls), email jiwon@alum.mit.edu or join our chats to add links. 
+Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) to add papers.
 
 [![Join the chat at https://gitter.im/kjw0612/awesome-deep-vision](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kjw0612/awesome-deep-vision?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
