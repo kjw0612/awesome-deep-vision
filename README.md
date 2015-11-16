@@ -62,8 +62,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
 (from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)
 
-  * OverFeat, NYU [[Paper]](http://arxiv.org/pdf/1311.2901)
-   * Matthrew Zeiler, Rob Fergus, Visualizing and Understanding Convolutional Networks, ECCV, 2014.
+  * OverFeat, NYU [[Paper]](http://arxiv.org/pdf/1312.6229.pdf)
+   * OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks, ICLR, 2014.
   * R-CNN, UC Berkeley [[Paper-CVPR14]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[Paper-arXiv14]](http://arxiv.org/pdf/1311.2524)
    * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation, CVPR, 2014.
   * SPP, Microsoft Research [[Paper]](http://arxiv.org/pdf/1406.4729)
@@ -180,6 +180,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
    * Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba, Object Detectors Emerge in Deep Scene CNNs, ICLR, 2015.
   * Inverting Convolutional Networks with Convolutional Networks
    * Alexey Dosovitskiy, Thomas Brox, Inverting Convolutional Networks with Convolutional Networks, arXiv, 2015. [[Paper]](http://arxiv.org/abs/1506.02753)
+  * Visualizing and Understanding CNN
+   * Matthrew Zeiler, Rob Fergus, Visualizing and Understanding Convolutional Networks, ECCV, 2014. [[Paper]](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
 ### Image Captioning 
 ![image_captioning](https://cloud.githubusercontent.com/assets/5226447/8452051/e8f81030-2022-11e5-85db-c68e7d8251ce.PNG)
