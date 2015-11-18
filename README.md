@@ -22,6 +22,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   - [ImageNet Classification](#imagenet-classification)
   - [Object Detection](#object-detection)
   - [Object Tracking](#object-tracking)
+  - [Super Resolution](#super-resolution)
   - [Low-Level Vision](#low-level-vision)
   - [Edge Detection](#edge-detection)
   - [Semantic Segmentation](#semantic-segmentation)
@@ -82,14 +83,22 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
  * Hanxi Li, Yi Li and Fatih Porikli, DeepTrack: Learning Discriminative Feature Representations by Convolutional Neural Networks for Visual Tracking, BMVC, 2014. [[Paper]](http://www.bmva.org/bmvc/2014/files/paper028.pdf)
  * N Wang, DY Yeung, Learning a Deep Compact Image Representation for Visual Tracking, NIPS, 2013. [[Paper]](http://winsty.net/papers/dlt.pdf)
  * Chao Ma, Jia-Bin Huang, Xiaokang Yang and Ming-Hsuan Yang, "Hierarchical Convolutional Features for Visual Tracking", ICCV 2015 [[GitHub]](https://github.com/jbhuang0604/CF2)
+ 
+### Super-Resolution
+ * Super-Resolution (SRCNN) [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) [[Paper-ECCV14]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) [[Paper-arXiv15]](http://arxiv.org/pdf/1501.00092.pdf)
+    * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Learning a Deep Convolutional Network for Image Super-Resolution, ECCV, 2014.
+    * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Image Super-Resolution Using Deep Convolutional Networks, arXiv:1501.00092.
+ * Very Deep Super-Resolution
+  * Jiwon Kim, Jung Kwon Lee, Kyoung Mu Lee, Accurate Image Super-Resolution Using Very Deep Convolutional Networks, arXiv:1511.04587, 2015. [[Paper]](http://arxiv.org/abs/1511.04587)
+ * Deeply-Recursive Convolutional Network
+  * Jiwon Kim, Jung Kwon Lee, Kyoung Mu Lee, Deeply-Recursive Convolutional Network for Image Super-Resolution, arXiv:1511.04491, 2015. [[Paper]](http://arxiv.org/abs/1511.04491) 
+ * Others
+    * Osendorfer, Christian, Hubert Soyer, and Patrick van der Smagt, Image Super-Resolution with Fast Approximate Convolutional Sparse Coding, ICONIP, 2014. [[Paper ICONIP-2014]](http://www.brml.org/uploads/tx_sibibtex/281.pdf)
+
 
 ### Low-Level Vision
  * Optical Flow (FlowNet) [[Paper]](http://arxiv.org/pdf/1504.06852)
   * Philipp Fischer, Alexey Dosovitskiy, Eddy Ilg, Philip Häusser, Caner Hazırbaş, Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox, FlowNet: Learning Optical Flow with Convolutional Networks, arXiv:1504.06852.
- * Super-Resolution (SRCNN) [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) [[Paper-ECCV14]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) [[Paper-arXiv15]](http://arxiv.org/pdf/1501.00092.pdf)[[Paper ICONIP-2014]](http://www.brml.org/uploads/tx_sibibtex/281.pdf)
-    * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Learning a Deep Convolutional Network for Image Super-Resolution, ECCV, 2014.
-    * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Image Super-Resolution Using Deep Convolutional Networks, arXiv:1501.00092.
-    * Osendorfer, Christian, Hubert Soyer, and Patrick van der Smagt, Image Super-Resolution with Fast Approximate Convolutional Sparse Coding, ICONIP, 2014. 
  * Compression Artifacts Reduction [[Paper-arXiv15]](http://arxiv.org/pdf/1504.06993)
    * Chao Dong, Yubin Deng, Chen Change Loy, Xiaoou Tang, Compression Artifacts Reduction by a Deep Convolutional Network, arXiv:1504.06993.
  * Non-Uniform Motion Blur Removal [[Paper]](http://arxiv.org/pdf/1503.00593)
