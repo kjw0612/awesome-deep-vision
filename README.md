@@ -22,16 +22,18 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   - [ImageNet Classification](#imagenet-classification)
   - [Object Detection](#object-detection)
   - [Object Tracking](#object-tracking)
-  - [Super Resolution](#super-resolution)
   - [Low-Level Vision](#low-level-vision)
+    - [Super Resolution](#super-resolution)
+    - [Other Applications](#other-applications)
   - [Edge Detection](#edge-detection)
   - [Semantic Segmentation](#semantic-segmentation)
   - [Visual Attention and Saliency](#visual-attention-and-saliency)
   - [Object Recognition](#object-recognition)
   - [Understanding CNN](#understanding-cnn)
-  - [Image Captioning](#image-captioning)
-  - [Video Captioning](#video-captioning)
-  - [Question Answering](#question-answering)
+  - [Image and Language](#image-and-language)
+    - [Image Captioning](#image-captioning)
+    - [Video Captioning](#video-captioning)
+    - [Question Answering](#question-answering)
   - [Other Topics](#other-topics)
  - [Courses](#courses)
  - [Books](#books)
@@ -84,7 +86,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
  * N Wang, DY Yeung, Learning a Deep Compact Image Representation for Visual Tracking, NIPS, 2013. [[Paper]](http://winsty.net/papers/dlt.pdf)
  * Chao Ma, Jia-Bin Huang, Xiaokang Yang and Ming-Hsuan Yang, "Hierarchical Convolutional Features for Visual Tracking", ICCV 2015 [[GitHub]](https://github.com/jbhuang0604/CF2)
 
-### Super-Resolution
+
+### Low-Level Vision
+
+#### Super-Resolution
  * Super-Resolution (SRCNN) [[Web]](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) [[Paper-ECCV14]](http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepresolution.pdf) [[Paper-arXiv15]](http://arxiv.org/pdf/1501.00092.pdf)
     * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Learning a Deep Convolutional Network for Image Super-Resolution, ECCV, 2014.
     * Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang, Image Super-Resolution Using Deep Convolutional Networks, arXiv:1501.00092.
@@ -95,14 +100,14 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
  * Others
     * Osendorfer, Christian, Hubert Soyer, and Patrick van der Smagt, Image Super-Resolution with Fast Approximate Convolutional Sparse Coding, ICONIP, 2014. [[Paper ICONIP-2014]](http://www.brml.org/uploads/tx_sibibtex/281.pdf)
 
-
-### Low-Level Vision
+#### Other Applications
  * Optical Flow (FlowNet) [[Paper]](http://arxiv.org/pdf/1504.06852)
   * Philipp Fischer, Alexey Dosovitskiy, Eddy Ilg, Philip Häusser, Caner Hazırbaş, Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox, FlowNet: Learning Optical Flow with Convolutional Networks, arXiv:1504.06852.
  * Compression Artifacts Reduction [[Paper-arXiv15]](http://arxiv.org/pdf/1504.06993)
    * Chao Dong, Yubin Deng, Chen Change Loy, Xiaoou Tang, Compression Artifacts Reduction by a Deep Convolutional Network, arXiv:1504.06993.
- * Non-Uniform Motion Blur Removal [[Paper]](http://arxiv.org/pdf/1503.00593)
-  * Jian Sun, Wenfei Cao, Zongben Xu, Jean Ponce, Learning a Convolutional Neural Network for Non-uniform Motion Blur Removal, CVPR, 2015.
+ * Blur Removal
+  * Christian J. Schuler, Michael Hirsch, Stefan Harmeling, Bernhard Schölkopf, Learning to Deblur, arXiv:1406.7444 [[Paper]](http://arxiv.org/pdf/1406.7444.pdf)
+  * Jian Sun, Wenfei Cao, Zongben Xu, Jean Ponce, Learning a Convolutional Neural Network for Non-uniform Motion Blur Removal, CVPR, 2015 [[Paper]](http://arxiv.org/pdf/1503.00593)
  * Image Deconvolution [[Web]](http://lxu.me/projects/dcnn/) [[Paper]](http://lxu.me/mypapers/dcnn_nips14.pdf)
   *  Li Xu, Jimmy SJ. Ren, Ce Liu, Jiaya Jia, Deep Convolutional Neural Network for Image Deconvolution, NIPS, 2014.
  *  Deep Edge-Aware Filter [[Paper]](http://jmlr.org/proceedings/papers/v37/xub15.pdf)
@@ -130,7 +135,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Adelaide
    * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van dan Hengel, Efficient piecewise training of deep structured models for semantic segmentation, arXiv:1504.01013. [[Paper]](http://arxiv.org/pdf/1504.01013) (1st ranked in VOC2012)
    * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van den Hengel, Deeply Learning the Messages in Message Passing Inference, arXiv:1508.02108. [[Paper]](http://arxiv.org/pdf/1506.02108) (4th ranked in VOC2012)
-  * Deep Parsing Network
+  * Deep Parsing Network (DPN)
    * Ziwei Liu, Xiaoxiao Li, Ping Luo, Chen Change Loy, Xiaoou Tang, Semantic Image Segmentation via Deep Parsing Network, arXiv:1509.02634 / ICCV 2015 [[Paper]](http://arxiv.org/pdf/1509.02634.pdf) (2nd ranked in VOC 2012)
   * CentraleSuperBoundaries, INRIA [[Paper]](http://arxiv.org/pdf/1511.07386)
    * Iasonas Kokkinos, Surpassing Humans in Boundary Detection using Deep Learning, arXiv:1411.07386 (4th ranked in VOC 2012)
@@ -196,7 +201,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Visualizing and Understanding CNN
    * Matthrew Zeiler, Rob Fergus, Visualizing and Understanding Convolutional Networks, ECCV, 2014. [[Paper]](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
-### Image Captioning
+
+### Image and Language
+
+#### Image Captioning
 ![image_captioning](https://cloud.githubusercontent.com/assets/5226447/8452051/e8f81030-2022-11e5-85db-c68e7d8251ce.PNG)
 (from Andrej Karpathy, Li Fei-Fei, Deep Visual-Semantic Alignments for Generating Image Description, CVPR, 2015.)
 
@@ -235,7 +243,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
    * Cornell [[Paper](http://arxiv.org/pdf/1508.02091.pdf)]
       * Jack Hessel, Nicolas Savva, Michael J. Wilber, Image Representations and New Domains in Neural Image Captioning, arXiv:1508.02091
 
-### Video Captioning
+#### Video Captioning
 * Berkeley [[Web]](http://jeffdonahue.com/lrcn/) [[Paper]](http://arxiv.org/pdf/1411.4389.pdf)
   * Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell, Long-term Recurrent Convolutional Networks for Visual Recognition and Description, CVPR, 2015.
 * UT / UML / Berkeley [[Paper]](http://arxiv.org/pdf/1412.4729)
@@ -254,7 +262,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Kyunghyun Cho, Aaron Courville, Yoshua Bengio, Describing Multimedia Content using Attention-based Encoder-Decoder Networks, arXiv:1507.01053
 
 
-### Question Answering
+#### Question Answering
 ![question_answering](https://cloud.githubusercontent.com/assets/5226447/8452068/ffe7b1f6-2022-11e5-87ab-4f6d4696c220.PNG)
 (from Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, VQA: Visual Question Answering, CVPR, 2015 SUNw:Scene Understanding workshop)
 
