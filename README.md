@@ -23,7 +23,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   - [Object Detection](#object-detection)
   - [Object Tracking](#object-tracking)
   - [Low-Level Vision](#low-level-vision)
-    - [Super Resolution](#super-resolution)
+    - [Super-Resolution](#super-resolution)
     - [Other Applications](#other-applications)
   - [Edge Detection](#edge-detection)
   - [Semantic Segmentation](#semantic-segmentation)
