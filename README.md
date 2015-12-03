@@ -130,7 +130,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ![semantic_segmantation](https://cloud.githubusercontent.com/assets/5226447/8452076/0ba8340c-2023-11e5-88bc-bebf4509b6bb.PNG)
 (from Jifeng Dai, Kaiming He, Jian Sun, BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation, arXiv:1503.01640.)
   * PASCAL VOC2012 Challenge Leaderboard (02 Dec. 2015)
-![VOC2012_top_rankings](https://cloud.githubusercontent.com/assets/7778428/11527440/5724d2bc-9924-11e5-9614-01b863629af3.png)
+![VOC2012_top_rankings](https://cloud.githubusercontent.com/assets/7778428/11551711/23ab9b46-99bf-11e5-85f4-35b27c5d6eaf.png)
 (from PASCAL VOC2012 [leaderboards](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6))
   * Adelaide
    * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van dan Hengel, Efficient piecewise training of deep structured models for semantic segmentation, arXiv:1504.01013. [[Paper]](http://arxiv.org/pdf/1504.01013) (1st ranked in VOC2012)
