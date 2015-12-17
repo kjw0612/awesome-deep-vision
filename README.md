@@ -79,6 +79,9 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
    * Karel Lenc, Andrea Vedaldi, R-CNN minus R, arXiv:1506.06981.
   * End-to-end people detection in crowded scenes [[Paper]] (http://arxiv.org/abs/1506.04878)
    * Russell Stewart, Mykhaylo Andriluka, End-to-end people detection in crowded scenes, arXiv:1506.04878.
+  * You Only Look Once: Unified, Real-Time Object Detection [[Paper]] (http://arxiv.org/abs/1506.02640)
+   * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
+
 
 ### Object Tracking
  * Seunghoon Hong, Tackgeun You, Suha Kwak, Bohyung Han, Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network, arXiv:1502.06796. [[Paper]](http://arxiv.org/pdf/1502.06796)
