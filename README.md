@@ -88,6 +88,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
  * Hanxi Li, Yi Li and Fatih Porikli, DeepTrack: Learning Discriminative Feature Representations by Convolutional Neural Networks for Visual Tracking, BMVC, 2014. [[Paper]](http://www.bmva.org/bmvc/2014/files/paper028.pdf)
  * N Wang, DY Yeung, Learning a Deep Compact Image Representation for Visual Tracking, NIPS, 2013. [[Paper]](http://winsty.net/papers/dlt.pdf)
  * Chao Ma, Jia-Bin Huang, Xiaokang Yang and Ming-Hsuan Yang, "Hierarchical Convolutional Features for Visual Tracking", ICCV 2015 [[GitHub]](https://github.com/jbhuang0604/CF2)
+ * Lijun Wang, Wanli Ouyang, Xiaogang Wang, and Huchuan Lu, "Visual Tracking with fully Convolutional Networks", ICCV 2015 [[GitHub]](https://github.com/scott89/FCNT) [[Paper]](http://202.118.75.4/lu/Paper/ICCV2015/iccv15_lijun.pdf)
 
 
 ### Low-Level Vision
