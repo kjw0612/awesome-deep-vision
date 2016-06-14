@@ -34,6 +34,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   - [Image Captioning](#image-captioning)
   - [Video Captioning](#video-captioning)
   - [Question Answering](#question-answering)
+- [Image Generation](#image-generation)
 - [Other Topics](#other-topics)
 - [Courses](#courses)
 - [Books](#books)
@@ -317,7 +318,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Harrison Edwards, Amos Storkey, "Censoring Representations with an Adversary", ICLR 2016, [[Paper](http://arxiv.org/pdf/1511.05897v3.pdf)]
   * Takeru Miyato, Shin-ichi Maeda, Masanori Koyama, Ken Nakae, Shin Ishii, "Distributional Smoothing with Virtual Adversarial Training", ICLR 2016, [[Paper](http://arxiv.org/pdf/1507.00677v8.pdf)]
 * Mixing Convolutional and Adversarial Networks
-  * Alec Radford, Luke Metz, Soumith Chintala, "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks", ICLR 2016. [[Paper](http://arxiv.org/abs/1511.06434)]
+  * Alec Radford, Luke Metz, Soumith Chintala, "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks", ICLR 2016. [[Paper](http://arxiv.org/pdf/1511.06434v2.pdf)]
 
 ### Other Topics
 * Visual Analogy [[Paper](https://web.eecs.umich.edu/~honglak/nips2015-analogy.pdf)]
