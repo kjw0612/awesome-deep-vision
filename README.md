@@ -73,21 +73,23 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation, CVPR, 2014.
 * SPP, Microsoft Research [[Paper]](http://arxiv.org/pdf/1406.4729)
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, ECCV, 2014.
-* Fast R-CNN, Microsoft Research [[Paper]] (http://arxiv.org/pdf/1504.08083)
+* Fast R-CNN, Microsoft Research [[Paper]](http://arxiv.org/pdf/1504.08083)
   * Ross Girshick, Fast R-CNN, arXiv:1504.08083.
-* Faster R-CNN, Microsoft Research [[Paper]] (http://arxiv.org/pdf/1506.01497)
+* Faster R-CNN, Microsoft Research [[Paper]](http://arxiv.org/pdf/1506.01497)
   * Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.
-* R-CNN minus R, Oxford [[Paper]] (http://arxiv.org/pdf/1506.06981)
+* R-CNN minus R, Oxford [[Paper]](http://arxiv.org/pdf/1506.06981)
   * Karel Lenc, Andrea Vedaldi, R-CNN minus R, arXiv:1506.06981.
-* End-to-end people detection in crowded scenes [[Paper]] (http://arxiv.org/abs/1506.04878)
+* End-to-end people detection in crowded scenes [[Paper]](http://arxiv.org/abs/1506.04878)
   * Russell Stewart, Mykhaylo Andriluka, End-to-end people detection in crowded scenes, arXiv:1506.04878.
-* You Only Look Once: Unified, Real-Time Object Detection [[Paper]] (http://arxiv.org/abs/1506.02640)
+* You Only Look Once: Unified, Real-Time Object Detection [[Paper]](http://arxiv.org/abs/1506.02640)
   * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
 * Inside-Outside Net [[Paper]](http://arxiv.org/abs/1512.04143)
   * Sean Bell, C. Lawrence Zitnick, Kavita Bala, Ross Girshick, Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks
 * Deep Residual Network (Current State-of-the-Art) [[Paper]](http://arxiv.org/abs/1512.03385)
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition
 * Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning [[Paper](http://arxiv.org/pdf/1503.00949.pdf)]
+* R-FCN [[Paper]](https://arxiv.org/abs/1605.06409) [[Code]](https://github.com/daijifeng001/R-FCN)
+  * Jifeng Dai, Yi Li, Kaiming He, Jian Sun, R-FCN: Object Detection via Region-based Fully Convolutional Networks
 
 ### Video Classification
 * Nicolas Ballas, Li Yao, Pal Chris, Aaron Courville, "Delving Deeper into Convolutional Networks for Learning Video Representations", ICLR 2016. [[Paper](http://arxiv.org/pdf/1511.06432v4.pdf)]
