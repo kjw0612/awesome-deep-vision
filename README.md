@@ -66,8 +66,6 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ### Object Detection
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
 (from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)
-* Facebook
-  * Sergey Zagoruyko, Adam Lerer, Tsung-Yi Lin, Pedro O. Pinheiro, Sam Gross, Soumith Chintala, Piotr Dollár, A Torch implementation of the object detection network from "A MultiPath Network for Object Detection", BVMC 2016 [[Paper]](https://arxiv.org/abs/1604.02135), [[Repository]](https://github.com/facebookresearch/multipathnet)
 * OverFeat, NYU [[Paper]](http://arxiv.org/pdf/1312.6229.pdf)
   * OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks, ICLR, 2014.
 * R-CNN, UC Berkeley [[Paper-CVPR14]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[Paper-arXiv14]](http://arxiv.org/pdf/1311.2524)
