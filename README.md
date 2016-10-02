@@ -19,23 +19,23 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ## Table of Contents
 - [Papers](#papers)
-- [ImageNet Classification](#imagenet-classification)
-- [Object Detection](#object-detection)
-- [Object Tracking](#object-tracking)
-- [Low-Level Vision](#low-level-vision)
-  - [Super-Resolution](#super-resolution)
-  - [Other Applications](#other-applications)
-- [Edge Detection](#edge-detection)
-- [Semantic Segmentation](#semantic-segmentation)
-- [Visual Attention and Saliency](#visual-attention-and-saliency)
-- [Object Recognition](#object-recognition)
-- [Understanding CNN](#understanding-cnn)
-- [Image and Language](#image-and-language)
-  - [Image Captioning](#image-captioning)
-  - [Video Captioning](#video-captioning)
-  - [Question Answering](#question-answering)
-- [Image Generation](#image-generation)
-- [Other Topics](#other-topics)
+  - [ImageNet Classification](#imagenet-classification)
+  - [Object Detection](#object-detection)
+  - [Object Tracking](#object-tracking)
+  - [Low-Level Vision](#low-level-vision)
+    - [Super-Resolution](#super-resolution)
+    - [Other Applications](#other-applications)
+  - [Edge Detection](#edge-detection)
+  - [Semantic Segmentation](#semantic-segmentation)
+  - [Visual Attention and Saliency](#visual-attention-and-saliency)
+  - [Object Recognition](#object-recognition)
+  - [Understanding CNN](#understanding-cnn)
+  - [Image and Language](#image-and-language)
+    - [Image Captioning](#image-captioning)
+    - [Video Captioning](#video-captioning)
+    - [Question Answering](#question-answering)
+  - [Image Generation](#image-generation)
+  - [Other Topics](#other-topics)
 - [Courses](#courses)
 - [Books](#books)
 - [Videos](#videos)
@@ -66,8 +66,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ### Object Detection
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
 (from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)
-* Facebook
-  * Sergey Zagoruyko, Adam Lerer, Tsung-Yi Lin, Pedro O. Pinheiro, Sam Gross, Soumith Chintala, Piotr Dollár, A Torch implementation of the object detection network from "A MultiPath Network for Object Detection", BVMC 2016 [[Paper]](https://arxiv.org/abs/1604.02135), [[Repository]](https://github.com/facebookresearch/multipathnet)
+
 * OverFeat, NYU [[Paper]](http://arxiv.org/pdf/1312.6229.pdf)
   * OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks, ICLR, 2014.
 * R-CNN, UC Berkeley [[Paper-CVPR14]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[Paper-arXiv14]](http://arxiv.org/pdf/1311.2524)
@@ -137,6 +136,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Jure Žbontar, Yann LeCun, Computing the Stereo Matching Cost with a Convolutional Neural Network, CVPR, 2015.
 * Colorful Image Colorization Richard Zhang, Phillip Isola, Alexei A. Efros, ECCV, 2016 [[Paper]](http://arxiv.org/pdf/1603.08511.pdf), [[Code]](https://github.com/richzhang/colorization)
 * Ryan Dahl, [[Blog]](http://tinyclouds.org/colorize/)
+* Feature Learning by Inpainting[[Paper]](https://arxiv.org/pdf/1604.07379v1.pdf)[[Code]](https://github.com/pathak22/context-encoder)
+  * Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei A. Efros, Context Encoders: Feature Learning by Inpainting, CVPR, 2016
 
 ### Edge Detection
 ![edge_detection](https://cloud.githubusercontent.com/assets/5226447/8452371/93ca6f7e-2025-11e5-90f2-d428fd5ff7ac.PNG)
@@ -152,9 +153,11 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ### Semantic Segmentation
 ![semantic_segmantation](https://cloud.githubusercontent.com/assets/5226447/8452076/0ba8340c-2023-11e5-88bc-bebf4509b6bb.PNG)
 (from Jifeng Dai, Kaiming He, Jian Sun, BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation, arXiv:1503.01640.)
-* PASCAL VOC2012 Challenge Leaderboard (02 Dec. 2015)
-  ![VOC2012_top_rankings](https://cloud.githubusercontent.com/assets/7778428/11551711/23ab9b46-99bf-11e5-85f4-35b27c5d6eaf.png)
+* PASCAL VOC2012 Challenge Leaderboard (01 Sep. 2016)
+  ![VOC2012_top_rankings](https://cloud.githubusercontent.com/assets/3803777/18164608/c3678488-7038-11e6-9ec1-74a1542dce13.png)
   (from PASCAL VOC2012 [leaderboards](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6))
+* SEC: Seed, Expand and Constrain
+  *  Alexander Kolesnikov, Christoph Lampert, Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation, ECCV, 2016. [[Paper]](http://pub.ist.ac.at/~akolesnikov/files/ECCV2016/main.pdf) [[Code]](https://github.com/kolesman/SEC)
 * Adelaide
   * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van dan Hengel, Efficient piecewise training of deep structured models for semantic segmentation, arXiv:1504.01013. [[Paper]](http://arxiv.org/pdf/1504.01013) (1st ranked in VOC2012)
   * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van den Hengel, Deeply Learning the Messages in Message Passing Inference, arXiv:1508.02108. [[Paper]](http://arxiv.org/pdf/1506.02108) (4th ranked in VOC2012)
@@ -342,7 +345,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Artistic Style [[Paper]](http://arxiv.org/abs/1508.06576) [[Code]](https://github.com/jcjohnson/neural-style)
   * Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, A Neural Algorithm of Artistic Style.
 * Human Gaze Estimation
-  * Xucong Zhang, Yusuke Sugano, Mario Fritz, Andreas Bulling, Appearance-Based Gaze Estimation in the Wild, CVPR, 2015. [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Appearance-Based_Gaze_Estimation_2015_CVPR_paper.pdf) [[Website]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild/)
+  * Xucong Zhang, Yusuke Sugano, Mario Fritz, Andreas Bulling, Appearance-Based Gaze Estimation in the Wild, CVPR, 2015. [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Appearance-Based_Gaze_Estimation_2015_CVPR_paper.pdf) [[Website]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild-mpiigaze/)
 * Face Recognition
   * Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf, DeepFace: Closing the Gap to Human-Level Performance in Face Verification, CVPR, 2014. [[Paper]](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
   * Yi Sun, Ding Liang, Xiaogang Wang, Xiaoou Tang, DeepID3: Face Recognition with Very Deep Neural Networks, 2015. [[Paper]](http://arxiv.org/abs/1502.00873)
