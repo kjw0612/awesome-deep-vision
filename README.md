@@ -311,6 +311,14 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Yang, Z., He, X., Gao, J., Deng, L., & Smola, A. (2015). Stacked Attention Networks for Image Question Answering. arXiv:1511.02274.
 * MetaMind [[Paper](http://arxiv.org/pdf/1603.01417v1.pdf)]
   * Xiong, Caiming, Stephen Merity, and Richard Socher. "Dynamic Memory Networks for Visual and Textual Question Answering." arXiv:1603.01417 (2016).
+* SNU + NAVER [[Paper](http://arxiv.org/abs/1606.01455)]
+  * Jin-Hwa Kim, Sang-Woo Lee, Dong-Hyun Kwak, Min-Oh Heo, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, *Multimodal Residual Learning for Visual QA*, arXiv:1606:01455
+* UC Berkeley + Sony [[Paper](https://arxiv.org/pdf/1606.01847)]
+  * Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, and Marcus Rohrbach, *Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding*, arXiv:1606.01847
+* Postech [[Paper](http://arxiv.org/pdf/1606.03647.pdf)]
+  * Hyeonwoo Noh and Bohyung Han, *Training Recurrent Answering Units with Joint Loss Minimization for VQA*, arXiv:1606.03647
+* SNU + NAVER [[Paper](http://arxiv.org/abs/1610.04325)]
+  * Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, *Hadamard Product for Low-rank Bilinear Pooling*, arXiv:1610.04325.
 
 ### Image Generation
 * Convolutional / Recurrent Networks
