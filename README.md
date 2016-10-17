@@ -393,7 +393,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Caffe: Deep learning framework by the BVLC [[Web](http://caffe.berkeleyvision.org/)]
 * Theano: Mathematical library in Python, maintained by LISA lab [[Web](http://deeplearning.net/software/theano/)]
   * Theano-based deep learning libraries: [[Pylearn2](http://deeplearning.net/software/pylearn2/)], [[Blocks](https://github.com/mila-udem/blocks)], [[Keras](http://keras.io/)], [[Lasagne](https://github.com/Lasagne/Lasagne)]
-* MatConvNet: CNNs for MATLAB [[Web]](http://www.vlfeat.org/matconvnet/)
+* MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
+* MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support [[Web](http://mxnet.io/)]
 
 ### Applications
 * Adversarial Training
