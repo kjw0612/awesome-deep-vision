@@ -19,23 +19,23 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ## Table of Contents
 - [Papers](#papers)
-- [ImageNet Classification](#imagenet-classification)
-- [Object Detection](#object-detection)
-- [Object Tracking](#object-tracking)
-- [Low-Level Vision](#low-level-vision)
-  - [Super-Resolution](#super-resolution)
-  - [Other Applications](#other-applications)
-- [Edge Detection](#edge-detection)
-- [Semantic Segmentation](#semantic-segmentation)
-- [Visual Attention and Saliency](#visual-attention-and-saliency)
-- [Object Recognition](#object-recognition)
-- [Understanding CNN](#understanding-cnn)
-- [Image and Language](#image-and-language)
-  - [Image Captioning](#image-captioning)
-  - [Video Captioning](#video-captioning)
-  - [Question Answering](#question-answering)
-- [Image Generation](#image-generation)
-- [Other Topics](#other-topics)
+  - [ImageNet Classification](#imagenet-classification)
+  - [Object Detection](#object-detection)
+  - [Object Tracking](#object-tracking)
+  - [Low-Level Vision](#low-level-vision)
+    - [Super-Resolution](#super-resolution)
+    - [Other Applications](#other-applications)
+  - [Edge Detection](#edge-detection)
+  - [Semantic Segmentation](#semantic-segmentation)
+  - [Visual Attention and Saliency](#visual-attention-and-saliency)
+  - [Object Recognition](#object-recognition)
+  - [Understanding CNN](#understanding-cnn)
+  - [Image and Language](#image-and-language)
+    - [Image Captioning](#image-captioning)
+    - [Video Captioning](#video-captioning)
+    - [Question Answering](#question-answering)
+  - [Image Generation](#image-generation)
+  - [Other Topics](#other-topics)
 - [Courses](#courses)
 - [Books](#books)
 - [Videos](#videos)
@@ -73,21 +73,23 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation, CVPR, 2014.
 * SPP, Microsoft Research [[Paper]](http://arxiv.org/pdf/1406.4729)
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, ECCV, 2014.
-* Fast R-CNN, Microsoft Research [[Paper]] (http://arxiv.org/pdf/1504.08083)
+* Fast R-CNN, Microsoft Research [[Paper]](http://arxiv.org/pdf/1504.08083)
   * Ross Girshick, Fast R-CNN, arXiv:1504.08083.
-* Faster R-CNN, Microsoft Research [[Paper]] (http://arxiv.org/pdf/1506.01497)
+* Faster R-CNN, Microsoft Research [[Paper]](http://arxiv.org/pdf/1506.01497)
   * Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.
-* R-CNN minus R, Oxford [[Paper]] (http://arxiv.org/pdf/1506.06981)
+* R-CNN minus R, Oxford [[Paper]](http://arxiv.org/pdf/1506.06981)
   * Karel Lenc, Andrea Vedaldi, R-CNN minus R, arXiv:1506.06981.
-* End-to-end people detection in crowded scenes [[Paper]] (http://arxiv.org/abs/1506.04878)
+* End-to-end people detection in crowded scenes [[Paper]](http://arxiv.org/abs/1506.04878)
   * Russell Stewart, Mykhaylo Andriluka, End-to-end people detection in crowded scenes, arXiv:1506.04878.
-* You Only Look Once: Unified, Real-Time Object Detection [[Paper]] (http://arxiv.org/abs/1506.02640)
+* You Only Look Once: Unified, Real-Time Object Detection [[Paper]](http://arxiv.org/abs/1506.02640)
   * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
 * Inside-Outside Net [[Paper]](http://arxiv.org/abs/1512.04143)
   * Sean Bell, C. Lawrence Zitnick, Kavita Bala, Ross Girshick, Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks
 * Deep Residual Network (Current State-of-the-Art) [[Paper]](http://arxiv.org/abs/1512.03385)
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition
 * Weakly Supervised Object Localization with Multi-fold Multiple Instance Learning [[Paper](http://arxiv.org/pdf/1503.00949.pdf)]
+* R-FCN [[Paper]](https://arxiv.org/abs/1605.06409) [[Code]](https://github.com/daijifeng001/R-FCN)
+  * Jifeng Dai, Yi Li, Kaiming He, Jian Sun, R-FCN: Object Detection via Region-based Fully Convolutional Networks
 
 ### Video Classification
 * Nicolas Ballas, Li Yao, Pal Chris, Aaron Courville, "Delving Deeper into Convolutional Networks for Learning Video Representations", ICLR 2016. [[Paper](http://arxiv.org/pdf/1511.06432v4.pdf)]
@@ -132,6 +134,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Li Xu, Jimmy SJ. Ren, Qiong Yan, Renjie Liao, Jiaya Jia, Deep Edge-Aware Filters, ICML, 2015.
 * Computing the Stereo Matching Cost with a Convolutional Neural Network [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zbontar_Computing_the_Stereo_2015_CVPR_paper.pdf)
   * Jure Žbontar, Yann LeCun, Computing the Stereo Matching Cost with a Convolutional Neural Network, CVPR, 2015.
+* Colorful Image Colorization Richard Zhang, Phillip Isola, Alexei A. Efros, ECCV, 2016 [[Paper]](http://arxiv.org/pdf/1603.08511.pdf), [[Code]](https://github.com/richzhang/colorization)
+* Ryan Dahl, [[Blog]](http://tinyclouds.org/colorize/)
+* Feature Learning by Inpainting[[Paper]](https://arxiv.org/pdf/1604.07379v1.pdf)[[Code]](https://github.com/pathak22/context-encoder)
+  * Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei A. Efros, Context Encoders: Feature Learning by Inpainting, CVPR, 2016
 
 ### Edge Detection
 ![edge_detection](https://cloud.githubusercontent.com/assets/5226447/8452371/93ca6f7e-2025-11e5-90f2-d428fd5ff7ac.PNG)
@@ -147,9 +153,11 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ### Semantic Segmentation
 ![semantic_segmantation](https://cloud.githubusercontent.com/assets/5226447/8452076/0ba8340c-2023-11e5-88bc-bebf4509b6bb.PNG)
 (from Jifeng Dai, Kaiming He, Jian Sun, BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation, arXiv:1503.01640.)
-* PASCAL VOC2012 Challenge Leaderboard (02 Dec. 2015)
-  ![VOC2012_top_rankings](https://cloud.githubusercontent.com/assets/7778428/11551711/23ab9b46-99bf-11e5-85f4-35b27c5d6eaf.png)
+* PASCAL VOC2012 Challenge Leaderboard (01 Sep. 2016)
+  ![VOC2012_top_rankings](https://cloud.githubusercontent.com/assets/3803777/18164608/c3678488-7038-11e6-9ec1-74a1542dce13.png)
   (from PASCAL VOC2012 [leaderboards](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6))
+* SEC: Seed, Expand and Constrain
+  *  Alexander Kolesnikov, Christoph Lampert, Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation, ECCV, 2016. [[Paper]](http://pub.ist.ac.at/~akolesnikov/files/ECCV2016/main.pdf) [[Code]](https://github.com/kolesman/SEC)
 * Adelaide
   * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van dan Hengel, Efficient piecewise training of deep structured models for semantic segmentation, arXiv:1504.01013. [[Paper]](http://arxiv.org/pdf/1504.01013) (1st ranked in VOC2012)
   * Guosheng Lin, Chunhua Shen, Ian Reid, Anton van den Hengel, Deeply Learning the Messages in Message Passing Inference, arXiv:1508.02108. [[Paper]](http://arxiv.org/pdf/1506.02108) (4th ranked in VOC2012)
@@ -303,9 +311,18 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Yang, Z., He, X., Gao, J., Deng, L., & Smola, A. (2015). Stacked Attention Networks for Image Question Answering. arXiv:1511.02274.
 * MetaMind [[Paper](http://arxiv.org/pdf/1603.01417v1.pdf)]
   * Xiong, Caiming, Stephen Merity, and Richard Socher. "Dynamic Memory Networks for Visual and Textual Question Answering." arXiv:1603.01417 (2016).
+* SNU + NAVER [[Paper](http://arxiv.org/abs/1606.01455)]
+  * Jin-Hwa Kim, Sang-Woo Lee, Dong-Hyun Kwak, Min-Oh Heo, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, *Multimodal Residual Learning for Visual QA*, arXiv:1606:01455
+* UC Berkeley + Sony [[Paper](https://arxiv.org/pdf/1606.01847)]
+  * Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, and Marcus Rohrbach, *Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding*, arXiv:1606.01847
+* Postech [[Paper](http://arxiv.org/pdf/1606.03647.pdf)]
+  * Hyeonwoo Noh and Bohyung Han, *Training Recurrent Answering Units with Joint Loss Minimization for VQA*, arXiv:1606.03647
+* SNU + NAVER [[Paper](http://arxiv.org/abs/1610.04325)]
+  * Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, *Hadamard Product for Low-rank Bilinear Pooling*, arXiv:1610.04325.
 
 ### Image Generation
 * Convolutional / Recurrent Networks
+  * Aäron van den Oord, Nal Kalchbrenner, Oriol Vinyals, Lasse Espeholt, Alex Graves, Koray Kavukcuoglu. "Conditional Image Generation with PixelCNN Decoders"[[Paper]](https://arxiv.org/pdf/1606.05328v2.pdf)[[Code]](https://github.com/kundan2510/pixelCNN)
   * Alexey Dosovitskiy, Jost Tobias Springenberg, Thomas Brox, "Learning to Generate Chairs with Convolutional Neural Networks", CVPR, 2015. [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
   * Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra, "DRAW: A Recurrent Neural Network For Image Generation", ICML, 2015. [[Paper](https://arxiv.org/pdf/1502.04623v2.pdf)] 
 * Adversarial Networks
@@ -336,7 +353,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Artistic Style [[Paper]](http://arxiv.org/abs/1508.06576) [[Code]](https://github.com/jcjohnson/neural-style)
   * Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, A Neural Algorithm of Artistic Style.
 * Human Gaze Estimation
-  * Xucong Zhang, Yusuke Sugano, Mario Fritz, Andreas Bulling, Appearance-Based Gaze Estimation in the Wild, CVPR, 2015. [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Appearance-Based_Gaze_Estimation_2015_CVPR_paper.pdf) [[Website]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild/)
+  * Xucong Zhang, Yusuke Sugano, Mario Fritz, Andreas Bulling, Appearance-Based Gaze Estimation in the Wild, CVPR, 2015. [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Appearance-Based_Gaze_Estimation_2015_CVPR_paper.pdf) [[Website]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild-mpiigaze/)
 * Face Recognition
   * Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf, DeepFace: Closing the Gap to Human-Level Performance in Face Verification, CVPR, 2014. [[Paper]](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
   * Yi Sun, Ding Liang, Xiaogang Wang, Xiaoou Tang, DeepID3: Face Recognition with Very Deep Neural Networks, 2015. [[Paper]](http://arxiv.org/abs/1502.00873)
@@ -372,10 +389,12 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ### Framework
 * Tensorflow: An open source software library for numerical computation using data flow graph by Google [[Web](https://www.tensorflow.org/)]
 * Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [[Web](http://torch.ch/)]
+  * Torch-based deep learning libraries: [[torchnet](https://github.com/torchnet/torchnet)],
 * Caffe: Deep learning framework by the BVLC [[Web](http://caffe.berkeleyvision.org/)]
 * Theano: Mathematical library in Python, maintained by LISA lab [[Web](http://deeplearning.net/software/theano/)]
   * Theano-based deep learning libraries: [[Pylearn2](http://deeplearning.net/software/pylearn2/)], [[Blocks](https://github.com/mila-udem/blocks)], [[Keras](http://keras.io/)], [[Lasagne](https://github.com/Lasagne/Lasagne)]
-* MatConvNet: CNNs for MATLAB [[Web]](http://www.vlfeat.org/matconvnet/)
+* MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
+* MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support [[Web](http://mxnet.io/)]
 
 ### Applications
 * Adversarial Training
@@ -393,10 +412,11 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ## Tutorials
 * [CVPR 2014] [Tutorial on Deep Learning in Computer Vision](https://sites.google.com/site/deeplearningcvpr2014/)
-* [CVPR 2015] [Applied Deep Learning for Computer Vision with Torch](http://torch.ch/docs/cvpr15.html)
+* [CVPR 2015] [Applied Deep Learning for Computer Vision with Torch](https://github.com/soumith/cvpr2015)
 
 ## Blogs
 * [Deep down the rabbit hole: CVPR 2015 and beyond@Tombone's Computer Vision Blog](http://www.computervisionblog.com/2015/06/deep-down-rabbit-hole-cvpr-2015-and.html)
 * [CVPR recap and where we're going@Zoya Bylinskii (MIT PhD Student)'s Blog](http://zoyathinks.blogspot.kr/2015/06/cvpr-recap-and-where-were-going.html)
 * [Facebook's AI Painting@Wired](http://www.wired.com/2015/06/facebook-googles-fake-brains-spawn-new-visual-reality/)
 * [Inceptionism: Going Deeper into Neural Networks@Google Research](http://googleresearch.blogspot.kr/2015/06/inceptionism-going-deeper-into-neural.html)
+* [Implementing Neural networks](http://peterroelants.github.io/) 
