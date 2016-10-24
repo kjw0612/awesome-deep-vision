@@ -40,8 +40,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 - [Books](#books)
 - [Videos](#videos)
 - [Software](#software)
-- [Framework](#framework)
-- [Applications](#applications)
+  - [Framework](#framework)
+  - [Applications](#applications)
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
 
