@@ -399,7 +399,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Theano-based deep learning libraries: [[Pylearn2](http://deeplearning.net/software/pylearn2/)], [[Blocks](https://github.com/mila-udem/blocks)], [[Keras](http://keras.io/)], [[Lasagne](https://github.com/Lasagne/Lasagne)]
 * MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
 * MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support [[Web](http://mxnet.io/)]
-* Deepgaze: A computer vision library for human-computer interaction based on CNNs [[Web]](https://github.com/mpatacchiola/deepgaze)
+* Deepgaze: A computer vision library for human-computer interaction based on CNNs [[Web](https://github.com/mpatacchiola/deepgaze)]
 
 ### Applications
 * Adversarial Training
