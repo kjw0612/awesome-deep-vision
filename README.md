@@ -67,6 +67,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
 (from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)
 
+* PVANET [[Paper]](https://arxiv.org/pdf/1608.08021) [[Code]](https://github.com/weiliu89/caffe/tree/ssd)
+  * Kye-Hyeon Kim, Sanghoon Hong, Byungseok Roh, Yeongjae Cheon, Minje Park, PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection, arXiv:1608.08021
 * OverFeat, NYU [[Paper]](http://arxiv.org/pdf/1312.6229.pdf)
   * OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks, ICLR, 2014.
 * R-CNN, UC Berkeley [[Paper-CVPR14]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[Paper-arXiv14]](http://arxiv.org/pdf/1311.2524)
