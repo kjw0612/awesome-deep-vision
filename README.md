@@ -150,7 +150,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 (from Gedas Bertasius, Jianbo Shi, Lorenzo Torresani, DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, CVPR, 2015.)
 
 * Holistically-Nested Edge Detection [[Paper]](http://arxiv.org/pdf/1504.06375) [[Code]](https://github.com/s9xie/hed)
-  * Saining Xie, Zhuowen Tu, Holistically-Nested Edge Detection, arXiv:1504.06375.
+  * Saining Xie, Zhuowen Tu, Holistically-Nested Edge Detection, arXiv:1504.0637ha5.
 * DeepEdge [[Paper]](http://arxiv.org/pdf/1412.1123)
   * Gedas Bertasius, Jianbo Shi, Lorenzo Torresani, DeepEdge: A Multi-Scale Bifurcated Deep Network for Top-Down Contour Detection, CVPR, 2015.
 * DeepContour [[Paper]](http://mc.eistar.net/UpLoadFiles/Papers/DeepContour_cvpr15.pdf)
@@ -282,6 +282,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
     with Ranking Canonical Correlation Analysis", ICCV, 2015
 
 #### Video Captioning
+* TAU/USC/OpenU [[Code]](https://github.com/dot27/temporal-tessellation)[[Paper]](https://arxiv.org/abs/1612.06950)
+    * Dotan Kaufman, Gil Levi, Tal Hassner, Lior Wolf, Temporal Tessellation for Video Annotation and Summarization, arXiv:1612.06950
 * Berkeley [[Web]](http://jeffdonahue.com/lrcn/) [[Paper]](http://arxiv.org/pdf/1411.4389.pdf)
   * Jeff Donahue, Lisa Anne Hendricks, Sergio Guadarrama, Marcus Rohrbach, Subhashini Venugopalan, Kate Saenko, Trevor Darrell, Long-term Recurrent Convolutional Networks for Visual Recognition and Description, CVPR, 2015.
 * UT / UML / Berkeley [[Paper]](http://arxiv.org/pdf/1412.4729)
@@ -345,6 +347,12 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Alec Radford, Luke Metz, Soumith Chintala, "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks", ICLR 2016. [[Paper](http://arxiv.org/pdf/1511.06434.pdf)]
 
 ### Other Topics
+* Video Summary
+    *  Dotan Kaufman, Gil Levi, Tal Hassner, Lior Wolf, Temporal Tessellation for Video Annotation and Summarization. [[Code]](https://github.com/dot27/temporal-tessellation)[[Paper]](https://arxiv.org/abs/1612.06950)
+* Age and Gneder Classification
+    * Gil Levi and Tal Hassner, Age and Gender Classification Using Convolutional Neural Networks, CVPR AMFG Workshop 2015. [[Paper](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf)][[Project](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)] 
+* Emotion Classification
+    * Gil Levi and Tal Hassner, Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns, ICMI 2015. [[Paper](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassner(ICMI15).pdf)][[Project](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)]
 * Visual Analogy [[Paper](https://web.eecs.umich.edu/~honglak/nips2015-analogy.pdf)]
   * Scott Reed, Yi Zhang, Yuting Zhang, Honglak Lee, Deep Visual Analogy Making, NIPS, 2015
 * Surface Normal Estimation [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Designing_Deep_Networks_2015_CVPR_paper.pdf)
