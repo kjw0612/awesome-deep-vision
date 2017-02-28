@@ -83,8 +83,9 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Karel Lenc, Andrea Vedaldi, R-CNN minus R, arXiv:1506.06981.
 * End-to-end people detection in crowded scenes [[Paper]](http://arxiv.org/abs/1506.04878)
   * Russell Stewart, Mykhaylo Andriluka, End-to-end people detection in crowded scenes, arXiv:1506.04878.
-* You Only Look Once: Unified, Real-Time Object Detection [[Paper]](http://arxiv.org/abs/1506.02640)
+* You Only Look Once: Unified, Real-Time Object Detection [[Paper]](http://arxiv.org/abs/1506.02640), [[Paper Version 2]](https://arxiv.org/abs/1612.08242), [[C Code]](https://github.com/pjreddie/darknet), [[Tensorflow Code]](https://github.com/thtrieu/darkflow)
   * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, arXiv:1506.02640
+  * Joseph Redmon, Ali Farhadi (Version 2)
 * Inside-Outside Net [[Paper]](http://arxiv.org/abs/1512.04143)
   * Sean Bell, C. Lawrence Zitnick, Kavita Bala, Ross Girshick, Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks
 * Deep Residual Network (Current State-of-the-Art) [[Paper]](http://arxiv.org/abs/1512.03385)
