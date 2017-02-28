@@ -395,8 +395,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * [Recent Developments in Deep Learning By Geoff Hinton](https://www.youtube.com/watch?v=vShMxxqtDDs)
   * [The Unreasonable Effectiveness of Deep Learning by Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI)
   * [Deep Learning of Representations by Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)
-* Courses
-  * [Deep Learning Course – Nando de Freitas@Oxford](http://www.computervisiontalks.com/tag/deep-learning-course/)
+
 
 ## Software
 ### Framework
