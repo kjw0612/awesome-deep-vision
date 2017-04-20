@@ -183,7 +183,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * POSTECH
   * Hyeonwoo Noh, Seunghoon Hong, Bohyung Han, Learning Deconvolution Network for Semantic Segmentation, arXiv:1505.04366. [[Paper]](http://arxiv.org/pdf/1505.04366) (7th ranked in VOC2012)
   * Seunghoon Hong, Hyeonwoo Noh, Bohyung Han, Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation, arXiv:1506.04924. [[Paper]](http://arxiv.org/pdf/1506.04924)
-  * Seunghoon Hong,Junhyuk Oh,	Bohyung Han, and	Honglak Lee, Learning Transferrable Knowledge for Semantic Segmentation with Deep Convolutional Neural Network, arXiv:1512.07928 [[Paper](http://arxiv.org/pdf/1512.07928.pdf)] [[Project Page](http://cvlab.postech.ac.kr/research/transfernet/)]
+     * Seunghoon Hong,Junhyuk Oh,Bohyung Han, andHonglak Lee, Learning Transferrable Knowledge for Semantic Segmentation with Deep Convolutional Neural Network, arXiv:1512.07928 [[Paper](http://arxiv.org/pdf/1512.07928.pdf)] [[Project Page](http://cvlab.postech.ac.kr/research/transfernet/)]
 * Conditional Random Fields as Recurrent Neural Networks [[Paper]](http://arxiv.org/pdf/1502.03240)
   * Shuai Zheng, Sadeep Jayasumana, Bernardino Romera-Paredes, Vibhav Vineet, Zhizhong Su, Dalong Du, Chang Huang, Philip H. S. Torr, Conditional Random Fields as Recurrent Neural Networks, arXiv:1502.03240. (8th ranked in VOC2012)
 * DeepLab
@@ -233,12 +233,18 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Mircea Cimpoi, Subhransu Maji, Andrea Vedaldi, Deep Filter Banks for Texture Recognition and Segmentation, CVPR, 2015.
 
 ### Human Pose Estimation
-* Zhe Cao, Tomas Simon, Shih-En Wei, and Yaser Sheikh, Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields, CVPR, 2017.
-* Leonid Pishchulin, Eldar Insafutdinov, Siyu Tang, Bjoern Andres, Mykhaylo Andriluka, Peter Gehler, and Bernt Schiele, Deepcut: Joint subset partition and labeling for multi person pose estimation, CVPR, 2016.
-* Shih-En Wei, Varun Ramakrishna, Takeo Kanade, and Yaser Sheikh, Convolutional pose machines, CVPR, 2016.
-* Alejandro Newell, Kaiyu Yang, and Jia Deng, Stacked hourglass networks for human pose estimation, ECCV, 2016.
-* Tomas Pfister, James Charles, and Andrew Zisserman, Flowing convnets for human pose estimation in videos, ICCV, 2015.
-* Jonathan J. Tompson, Arjun Jain, Yann LeCun, Christoph Bregler, Joint training of a convolutional network and a graphical model for human pose estimation, NIPS, 2014.
+* Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields[[Paper]](https://arxiv.org/pdf/1611.08050.pdf)
+  * Zhe Cao, Tomas Simon, Shih-En Wei, and Yaser Sheikh, CVPR, 2017.
+* Deepcut: Joint subset partition and labeling for multi person pose estimation[[Paper]](https://arxiv.org/pdf/1511.06645.pdf)
+  * Leonid Pishchulin, Eldar Insafutdinov, Siyu Tang, Bjoern Andres, Mykhaylo Andriluka, Peter Gehler, and Bernt Schiele, CVPR, 2016.
+* Convolutional pose machines[[Paper]](https://arxiv.org/pdf/1602.00134.pdf)
+  * Shih-En Wei, Varun Ramakrishna, Takeo Kanade, and Yaser Sheikh, CVPR, 2016.
+* Stacked hourglass networks for human pose estimation[[Paper]](https://arxiv.org/pdf/1603.06937.pdf)
+  * Alejandro Newell, Kaiyu Yang, and Jia Deng, ECCV, 2016.
+* Flowing convnets for human pose estimation in videos[[Paper]](https://arxiv.org/pdf/1506.02897.pdf)
+  * Tomas Pfister, James Charles, and Andrew Zisserman, ICCV, 2015.
+* Joint training of a convolutional network and a graphical model for human pose estimation[[Paper]](https://arxiv.org/pdf/1406.2984.pdf)
+  * Jonathan J. Tompson, Arjun Jain, Yann LeCun, Christoph Bregler, NIPS, 2014.
 
 ### Understanding CNN
 ![understanding](https://cloud.githubusercontent.com/assets/5226447/8452083/1aaa0066-2023-11e5-800b-2248ead51584.PNG)
