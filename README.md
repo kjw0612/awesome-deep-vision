@@ -314,7 +314,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Univ. Montreal [[Paper](http://arxiv.org/pdf/1507.01053.pdf)]
   * Kyunghyun Cho, Aaron Courville, Yoshua Bengio, Describing Multimedia Content using Attention-based Encoder-Decoder Networks, arXiv:1507.01053
 * TAU / USC [[paper](https://arxiv.org/pdf/1612.06950.pdf)]
-  * Dotan Kaufman, Gil Levi, Tal Hassner, Lior Wolf, Temporal Tessellation for Video Annotation and Summarization, arXiv:1612.06950.
+  * Dotan Kaufman, Gil Levi, Tal Hassner, Lior Wolf, Temporal Tessellation: A Unified Approach for Video Analysis, arXiv:1612.06950.
 
 #### Question Answering
 ![question_answering](https://cloud.githubusercontent.com/assets/5226447/8452068/ffe7b1f6-2022-11e5-87ab-4f6d4696c220.PNG)
@@ -384,6 +384,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Florian Schroff, Dmitry Kalenichenko, James Philbin, FaceNet: A Unified Embedding for Face Recognition and Clustering, CVPR, 2015. [[Paper]](http://arxiv.org/abs/1503.03832)
 * Facial Landmark Detection
   * Yue Wu, Tal Hassner, KangGeon Kim, Gerard Medioni, Prem Natarajan, Facial Landmark Detection with Tweaked Convolutional Neural Networks, 2015. [[Paper]](http://arxiv.org/abs/1511.04031) [[Project]](http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/)
+* Age and Gender Classification
+  * Gil Levi, Tal Hassner, Age and Gender Classification using Convolutional Neural Networks, CVPR 2015 AMFG workshop. [[Paper]](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf) [[Project]](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
+* Emotion Classification
+  * Gil Levi, Tal Hassner Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns, ICMI 2015. [[Paper](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf) [[Project]] (http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
 
 ## Courses
 * Deep Vision
