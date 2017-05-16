@@ -313,7 +313,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Yukun Zhu, Ryan Kiros, Richard Zemel, Ruslan Salakhutdinov, Raquel Urtasun, Antonio Torralba, Sanja Fidler, Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books, arXiv:1506.06724
 * Univ. Montreal [[Paper](http://arxiv.org/pdf/1507.01053.pdf)]
   * Kyunghyun Cho, Aaron Courville, Yoshua Bengio, Describing Multimedia Content using Attention-based Encoder-Decoder Networks, arXiv:1507.01053
-* TAU / USC [[paper](https://arxiv.org/pdf/1612.06950.pdf)]
+* TAU / USC [[Paper](https://arxiv.org/pdf/1612.06950.pdf)]
   * Dotan Kaufman, Gil Levi, Tal Hassner, Lior Wolf, Temporal Tessellation: A Unified Approach for Video Analysis, arXiv:1612.06950.
 
 #### Question Answering
