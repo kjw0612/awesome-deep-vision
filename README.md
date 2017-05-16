@@ -387,7 +387,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Age and Gender Classification
   * Gil Levi, Tal Hassner, Age and Gender Classification using Convolutional Neural Networks, CVPR 2015 AMFG workshop. [[Paper]](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf) [[Project]](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
 * Emotion Classification
-  * Gil Levi, Tal Hassner Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns, ICMI 2015. [[Paper](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf) [[Project]] (http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
+  * Gil Levi, Tal Hassner Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns, ICMI 2015. [[Paper]](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf) [[Project]] (http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
 
 ## Courses
 * Deep Vision
