@@ -419,6 +419,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
 * MXNet: A flexible and efficient deep learning library for heterogeneous distributed systems with multi-language support [[Web](http://mxnet.io/)]
 * Deepgaze: A computer vision library for human-computer interaction based on CNNs [[Web](https://github.com/mpatacchiola/deepgaze)]
+* Microsoft Cognitive Toolkit (CNTK): An open source software library for deep learning by Microsoft [[Web](http://cntk.ai)]
 
 ### Applications
 * Adversarial Training
