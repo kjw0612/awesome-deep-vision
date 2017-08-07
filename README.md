@@ -239,6 +239,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Alejandro Newell, Kaiyu Yang, and Jia Deng, Stacked hourglass networks for human pose estimation, ECCV, 2016.
 * Tomas Pfister, James Charles, and Andrew Zisserman, Flowing convnets for human pose estimation in videos, ICCV, 2015.
 * Jonathan J. Tompson, Arjun Jain, Yann LeCun, Christoph Bregler, Joint training of a convolutional network and a graphical model for human pose estimation, NIPS, 2014.
+* Patacchiola Massimiliano, Cangelosi Angelo, Head pose estimation in the wild using Convolutional Neural Networks and adaptive gradient methods, Pattern Recognition, 2017. [[Paper]](http://mpatacchiola.github.io/doc/Head%20Pose%20Estimation%20in%20the%20Wild%20using%20Convolutional%20Neural%20Networks%20and%20Adaptive%20Gradient%20Methods%20-%20Patacchiola%20and%20Cangelosi%20-%202017.pdf) [[Code]](https://github.com/mpatacchiola/deepgaze)
 
 ### Understanding CNN
 ![understanding](https://cloud.githubusercontent.com/assets/5226447/8452083/1aaa0066-2023-11e5-800b-2248ead51584.PNG)
