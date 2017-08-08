@@ -372,6 +372,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Cong Zhang, Hongsheng Li, Xiaogang Wang, Xiaokang Yang, Cross-scene Crowd Counting via Deep Convolutional Neural Networks, CVPR, 2015.
 * 3D Shape Retrieval [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Sketch-Based_3D_Shape_2015_CVPR_paper.pdf)
   * Fang Wang, Le Kang, Yi Li, Sketch-based 3D Shape Retrieval using Convolutional Neural Networks, CVPR, 2015.
+* Multiview 3D Reconstruction (MVS) [[Paper]](https://arxiv.org/abs/1708.01749) [[Code]](https://github.com/mjiUST/SurfaceNet)
+  * Mengqi Ji, Juergen Gall, Haitian Zheng, Yebin Liu, Lu Fang, SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis, ICCV, 2017.
 * Weakly-supervised Classification
   * Samaneh Azadi, Jiashi Feng, Stefanie Jegelka, Trevor Darrell, "Auxiliary Image Regularization for Deep CNNs with Noisy Labels", ICLR 2016, [[Paper](http://arxiv.org/pdf/1511.07069v2.pdf)]
 * Artistic Style [[Paper]](http://arxiv.org/abs/1508.06576) [[Code]](https://github.com/jcjohnson/neural-style)
