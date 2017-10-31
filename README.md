@@ -217,6 +217,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ![saliency](https://cloud.githubusercontent.com/assets/5226447/8492362/7ec65b88-2183-11e5-978f-017e45ddba32.png)
 (from Nian Liu, Junwei Han, Dingwen Zhang, Shifeng Wen, Tianming Liu, Predicting Eye Fixations using Convolutional Neural Networks, CVPR, 2015.)
 
+* Saliency Unified [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kruthiventi_Saliency_Unified_A_CVPR_2016_paper.pdf)
+  * Srinivas S S Kruthiventi, Vennela Gudisa, Jaley H Dholakiya and R. Venkatesh Babu, Saliency Unified: A Deep Architecture for simultaneous Eye Fixation Prediction and Salient Object Segmentation, CVPR, 2016.
 * Mr-CNN [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Predicting_Eye_Fixations_2015_CVPR_paper.pdf)
   * Nian Liu, Junwei Han, Dingwen Zhang, Shifeng Wen, Tianming Liu, Predicting Eye Fixations using Convolutional Neural Networks, CVPR, 2015.
 * Learning a Sequential Search for Landmarks [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Singh_Learning_a_Sequential_2015_CVPR_paper.pdf)
