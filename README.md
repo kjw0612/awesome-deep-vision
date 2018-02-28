@@ -212,6 +212,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Iasonas Kokkinos, "Pusing the Boundaries of Boundary Detection Using deep Learning", ICLR 2016, [[Paper](http://arxiv.org/pdf/1511.07386v2.pdf)]
 * UCSB
   * Niloufar Pourian, S. Karthikeyan, and B.S. Manjunath, "Weakly supervised graph based semantic segmentation by learning communities of image-parts", ICCV, 2015, [[Paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Pourian_Weakly_Supervised_Graph_ICCV_2015_paper.pdf)]
+* Simple Does It
+  * A. Khoreva, R. Benenson, J. Hosang, M. Hein, B. Schiele, "Simple Does It: Weakly Supervised Instance and Semantic Segmentation", CVPR 2017, [[Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf)] [[code]](https://github.com/philferriere/tfwss)
 
 ### Visual Attention and Saliency
 ![saliency](https://cloud.githubusercontent.com/assets/5226447/8492362/7ec65b88-2183-11e5-978f-017e45ddba32.png)
