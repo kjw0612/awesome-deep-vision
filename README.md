@@ -98,6 +98,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Wei Liu1, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg, SSD: Single Shot MultiBox Detector, arXiv:1512.02325
 * Speed/accuracy trade-offs for modern convolutional object detectors [[Paper]](https://arxiv.org/pdf/1611.10012v1.pdf)
   * Jonathan Huang, Vivek Rathod, Chen Sun, Menglong Zhu, Anoop Korattikara, Alireza Fathi, Ian Fischer, Zbigniew Wojna, Yang Song, Sergio Guadarrama, Kevin Murphy, Google Research, arXiv:1611.10012
+* Feature Pyramid Networks for Object Detection [[Paper]](https://arxiv.org/abs/1612.03144)
+  * Tsung-Yi Lin, Piotr Dollár, Ross Girshick, Kaiming He, Bharath Hariharan, Serge Belongie, arXiv:1612.03144
+* Focal Loss for Dense Object Detection  [[Paper]](https://arxiv.org/abs/1708.02002)
+  * Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár, arXiv:1708.02002v2
 
 ### Video Classification
 * Nicolas Ballas, Li Yao, Pal Chris, Aaron Courville, "Delving Deeper into Convolutional Networks for Learning Video Representations", ICLR 2016. [[Paper](http://arxiv.org/pdf/1511.06432v4.pdf)]
