@@ -406,6 +406,9 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * [Recent Developments in Deep Learning By Geoff Hinton](https://www.youtube.com/watch?v=vShMxxqtDDs)
   * [The Unreasonable Effectiveness of Deep Learning by Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI)
   * [Deep Learning of Representations by Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)
+* Video Series
+  * [Deep Learning Crash Course by Leo Isikdogan](https://www.youtube.com/watch?v=nmnaO6esC7c&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07)
+  * [Hands-on Deep Learning: TensorFlow Coding Sessions](https://www.youtube.com/watch?v=1KzJbIFnVTE&list=PLWKotBjTDoLhcczRktdYukFDU3BwXRNaN)
 
 
 ## Software
