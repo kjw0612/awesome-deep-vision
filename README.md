@@ -406,6 +406,15 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * [Recent Developments in Deep Learning By Geoff Hinton](https://www.youtube.com/watch?v=vShMxxqtDDs)
   * [The Unreasonable Effectiveness of Deep Learning by Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI)
   * [Deep Learning of Representations by Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)
+  * [What is Neural Structured Learning by Andrew Ferlitsch](https://youtu.be/LXWSE_9gHd0)
+  * [Deep Learning Design Patterns by Andrew Ferlitsch](https://youtu.be/_DaviS6K0Vc)
+  * [Architecture of a Modern CNN: the design pattern approach by Andrew Ferlitsch](https://youtu.be/QCGSS3kyGo0)
+  * [Metaparameters in a CNN by Andrew Ferlitsch](https://youtu.be/K1PLeggQ33I)
+  * [Multi-task CNN: a real-world example by Andrew Ferlitsch](https://youtu.be/dH2nuI-1-qM)
+  * [A friendly introduction to deep reinforcement learning by Luis Serrano](https://youtu.be/1FyAh07jh0o)
+  * [What are GANs and how do they work? by Edward Raff](https://youtu.be/f6ivp84qFUc)
+  * [Coding a basic WGAN in PyTorch by Edward Raff](https://youtu.be/7VRdaqMDalQ)
+  * [Training a Reinforcement Learning Agent by Miguel Morales](https://youtu.be/8TMT-gHlj_Q)
 
 
 ## Software
