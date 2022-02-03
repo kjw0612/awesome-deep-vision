@@ -4,7 +4,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 
 Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://github.com/hmyeong), [Myungsub Choi](https://github.com/myungsub), [Jung Kwon Lee](https://github.com/deruci), [Taeksoo Kim](https://github.com/jazzsaxmafia)
 
-We are looking for a maintainer! Let me know (jiwon@alum.mit.edu) if interested.
+The project is not actively maintained. 
 
 ## Contributing
 Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) to add papers.
