@@ -21,6 +21,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 - [Papers](#papers)
   - [ImageNet Classification](#imagenet-classification)
   - [Object Detection](#object-detection)
+  - [3D Object Detection](https://github.com/TianhaoFu/Awesome-3D-Object-Detection)
   - [Object Tracking](#object-tracking)
   - [Low-Level Vision](#low-level-vision)
     - [Super-Resolution](#super-resolution)
