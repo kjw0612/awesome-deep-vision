@@ -130,6 +130,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Justin Johnson, Alexandre Alahi, Li Fei-Fei, Perceptual Losses for Real-Time Style Transfer and Super-Resolution, arXiv:1603.08155, 2016. [[Paper]](http://arxiv.org/abs/1603.08155) [[Supplementary]](http://cs.stanford.edu/people/jcjohns/papers/fast-style/fast-style-supp.pdf)
 * SRGAN
   * Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi, Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network, arXiv:1609.04802v3, 2016. [[Paper]](https://arxiv.org/pdf/1609.04802v3.pdf)
+* EPSR
+  * Subeesh Vasu, Nimisha T. M., A. N. Rajagopalan, Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network, ECCV Workshops, 2018. [[web]](https://github.com/subeeshvasu/2018_subeesh_epsr_eccvw) [[Paper]](https://arxiv.org/pdf/1811.00344.pdf)
 * Others
   * Osendorfer, Christian, Hubert Soyer, and Patrick van der Smagt, Image Super-Resolution with Fast Approximate Convolutional Sparse Coding, ICONIP, 2014. [[Paper ICONIP-2014]](http://brml.org/uploads/tx_sibibtex/281.pdf)
 
@@ -141,8 +143,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Blur Removal
   * Christian J. Schuler, Michael Hirsch, Stefan Harmeling, Bernhard Schölkopf, Learning to Deblur, arXiv:1406.7444 [[Paper]](http://arxiv.org/pdf/1406.7444.pdf)
   * Jian Sun, Wenfei Cao, Zongben Xu, Jean Ponce, Learning a Convolutional Neural Network for Non-uniform Motion Blur Removal, CVPR, 2015 [[Paper]](http://arxiv.org/pdf/1503.00593)
+  * Subeesh Vasu, A. N. Rajagopalan, From local to global: Edge profiles to camera motion in blurred images, CVPR, 2017 [[web]](https://subeeshvasu.github.io/2017_subeesh_from_cvpr/) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Vasu_From_Local_to_CVPR_2017_paper.pdf)
 * Image Deconvolution [[Web]](http://lxu.me/projects/dcnn/) [[Paper]](http://lxu.me/mypapers/dcnn_nips14.pdf)
   * Li Xu, Jimmy SJ. Ren, Ce Liu, Jiaya Jia, Deep Convolutional Neural Network for Image Deconvolution, NIPS, 2014.
+  * Subeesh Vasu, Venkatesh Maligireddy, A. N. Rajagopalan, Non-blind Deblurring: Handling Kernel Uncertainty with CNNs, CVPR, 2018. [[web]](https://github.com/subeeshvasu/2018_subeesh_nbd_cvpr) [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Vasu_Non-Blind_Deblurring_Handling_CVPR_2018_paper.pdf)
 * Deep Edge-Aware Filter [[Paper]](http://jmlr.org/proceedings/papers/v37/xub15.pdf)
   * Li Xu, Jimmy SJ. Ren, Qiong Yan, Renjie Liao, Jiaya Jia, Deep Edge-Aware Filters, ICML, 2015.
 * Computing the Stereo Matching Cost with a Convolutional Neural Network [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zbontar_Computing_the_Stereo_2015_CVPR_paper.pdf)
