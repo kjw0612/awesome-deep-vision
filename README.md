@@ -40,6 +40,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 - [Courses](#courses)
 - [Books](#books)
 - [Videos](#videos)
+- [Resources](#resources)
 - [Software](#software)
   - [Framework](#framework)
   - [Applications](#applications)
@@ -407,6 +408,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * [The Unreasonable Effectiveness of Deep Learning by Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI)
   * [Deep Learning of Representations by Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)
 
+## Resources
+* [Synthical](https://synthical.com) - AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and so on.
 
 ## Software
 ### Framework
