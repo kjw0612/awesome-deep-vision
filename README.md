@@ -399,6 +399,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.iro.umontreal.ca/~bengioy/dlbook/)
   * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
   * [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
+  * [Generative AI in Computer Vision](https://www.manning.com/books/generative-ai-in-computer-vision)
 
 ## Videos
 * Talks
