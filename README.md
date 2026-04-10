@@ -6,6 +6,7 @@ Maintainers - [Jiwon Kim](https://github.com/kjw0612), [Heesoo Myeong](https://g
 
 The project is not actively maintained. 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=kjw0612_awesome-deep-vision) - Follow developers on GitHub and get a feed of what they star and build.
 ## Contributing
 Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-vision/pulls) to add papers.
 
