@@ -433,6 +433,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Edge Detection
   * Source code for the paper "DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection," CVPR, 2015. [[Web]](https://github.com/shenwei1231/DeepContour)
   * Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015. [[Web]](https://github.com/s9xie/hed)
+* Deepfake & Synthetic Media Detection
+  * Sealed Rose: In-browser AI deepfake and synthetic video forensics engine [[Web]](https://sealedrose.com/verify-video)
 
 ## Tutorials
 * [CVPR 2014] [Tutorial on Deep Learning in Computer Vision](https://sites.google.com/site/deeplearningcvpr2014/)
