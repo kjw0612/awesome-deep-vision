@@ -389,6 +389,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Deep Vision
   * [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
   * [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
+  * [QuiddityML] [Intro to Computer Vision: image tensors, CNNs, vision transformers, detection, and segmentation, with hands-on exercises and spaced repetition](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-deep-vision)
 * More Deep Learning
   * [Stanford] [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
   * [Oxford] [Deep Learning by Prof. Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
