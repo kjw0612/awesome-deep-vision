@@ -21,6 +21,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 - [Papers](#papers)
   - [ImageNet Classification](#imagenet-classification)
   - [Object Detection](#object-detection)
+  - [Temporal Action Detection](#temporal-action-detection)
   - [Object Tracking](#object-tracking)
   - [Low-Level Vision](#low-level-vision)
     - [Super-Resolution](#super-resolution)
@@ -34,6 +35,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   - [Image and Language](#image-and-language)
     - [Image Captioning](#image-captioning)
     - [Video Captioning](#video-captioning)
+    - [Temporal Grounding](#temporal-grounding)
     - [Question Answering](#question-answering)
   - [Image Generation](#image-generation)
   - [Other Topics](#other-topics)
@@ -63,6 +65,9 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
 * AlexNet [[Paper]](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
   * Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.
+
+* **Efficient Test-Time Prompt Tuning for Vision-Language Models**, IJCV 2026. [[Paper](https://link.springer.com/article/10.1007/s11263-026-03019-3)] [[arXiv](https://arxiv.org/abs/2408.05775)] — Efficient CLIP classification through class-name contrastive prompt adaptation and gradient matching.
+* **AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**, NeurIPS 2024. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html)] [[arXiv](https://arxiv.org/abs/2407.04603)] [[Code](https://github.com/MCG-NJU/AWT)] — Vision-language transfer using augmentation, confidence weighting and optimal transport, with image and video-classification evaluations.
 
 ### Object Detection
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
@@ -102,6 +107,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ### Video Classification
 * Nicolas Ballas, Li Yao, Pal Chris, Aaron Courville, "Delving Deeper into Convolutional Networks for Learning Video Representations", ICLR 2016. [[Paper](http://arxiv.org/pdf/1511.06432v4.pdf)]
 * Michael Mathieu, camille couprie, Yann Lecun, "Deep Multi Scale Video Prediction Beyond Mean Square Error", ICLR 2016. [[Paper](http://arxiv.org/pdf/1511.05440v6.pdf)]
+
+### Temporal Action Detection
+
+* **Dual DETRs for Multi-Label Temporal Action Detection**, CVPR 2024. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Dual_DETRs_for_Multi-Label_Temporal_Action_Detection_CVPR_2024_paper.html)] [[arXiv](https://arxiv.org/abs/2404.00653)] — Multi-label temporal action localization with complementary instance/boundary queries and joint two-branch decoding.
 
 ### Object Tracking
 * Seunghoon Hong, Tackgeun You, Suha Kwak, Bohyung Han, Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network, arXiv:1502.06796. [[Paper]](http://arxiv.org/pdf/1502.06796)
@@ -151,6 +160,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Ryan Dahl, [[Blog]](http://tinyclouds.org/colorize/)
 * Feature Learning by Inpainting[[Paper]](https://arxiv.org/pdf/1604.07379v1.pdf)[[Code]](https://github.com/pathak22/context-encoder)
   * Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei A. Efros, Context Encoders: Feature Learning by Inpainting, CVPR, 2016
+
+* **Motion-aware generative frame interpolation**, SCIS 2026. [[Paper](https://link.springer.com/article/10.1007/s11432-025-4920-3)] [[arXiv](https://arxiv.org/abs/2501.03699)] [[Code](https://github.com/MCG-NJU/MoG-VFI)] — Flow-guided latent/feature injection adapts pretrained video diffusion to frame interpolation by selectively tuning spatial layers.
 
 ### Edge Detection
 ![edge_detection](https://cloud.githubusercontent.com/assets/5226447/8452371/93ca6f7e-2025-11e5-90f2-d428fd5ff7ac.PNG)
@@ -231,6 +242,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Maxime Oquab, Leon Bottou, Ivan Laptev, Josef Sivic, Is object localization for free? – Weakly-supervised learning with convolutional neural networks, CVPR, 2015.
 * FV-CNN [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Cimpoi_Deep_Filter_Banks_2015_CVPR_paper.pdf)
   * Mircea Cimpoi, Subhransu Maji, Andrea Vedaldi, Deep Filter Banks for Texture Recognition and Segmentation, CVPR, 2015.
+
+* **FreeRet: MLLMs as Training-Free Retrievers**, ICML 2026. [[Paper](https://proceedings.mlr.press/v306/zhu26ba.html)] [[arXiv](https://arxiv.org/abs/2509.24621)] [[Code](https://github.com/MCG-NJU/FreeRet)] — Semantic retrieval and visual classification through unchanged MLLM embeddings and neutral-choice reranking.
 
 ### Human Pose Estimation
 * Zhe Cao, Tomas Simon, Shih-En Wei, and Yaser Sheikh, Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields, CVPR, 2017.
@@ -316,6 +329,13 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * TAU / USC [[paper](https://arxiv.org/pdf/1612.06950.pdf)]
   * Dotan Kaufman, Gil Levi, Tal Hassner, Lior Wolf, Temporal Tessellation for Video Annotation and Summarization, arXiv:1612.06950.
 
+* **OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction**, arXiv 2026. [[Paper](https://arxiv.org/abs/2610.01762)] [[Code](https://github.com/MCG-NJU/OneStreamer)] — Timestamped detail/event caption memory and response-state supervision for streaming perception and proactive interaction.
+
+#### Temporal Grounding
+
+* **VideoJev: System One Model for Video Understanding and Interaction**, arXiv 2026. [[Paper](https://arxiv.org/abs/2610.18615)] [[Code](https://github.com/MCG-NJU/VideoJev)] — A shared candidate-scoring head for temporal grounding and multiple-choice video QA, with video-prefix computation reuse.
+* **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**, arXiv 2026. [[Paper](https://arxiv.org/abs/2607.17423)] [[Code](https://github.com/MCG-NJU/TimeLens2)] — Query-supported video temporal intervals learned from verified instruction data and temporal-grounding GRPO.
+
 #### Question Answering
 ![question_answering](https://cloud.githubusercontent.com/assets/5226447/8452068/ffe7b1f6-2022-11e5-87ab-4f6d4696c220.PNG)
 (from Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, VQA: Visual Question Answering, CVPR, 2015 SUNw:Scene Understanding workshop)
@@ -342,6 +362,11 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Hyeonwoo Noh and Bohyung Han, *Training Recurrent Answering Units with Joint Loss Minimization for VQA*, arXiv:1606.03647
 * SNU + NAVER [[Paper](http://arxiv.org/abs/1610.04325)]
   * Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, *Hadamard Product for Low-rank Bilinear Pooling*, arXiv:1610.04325.
+
+* **MJev-Spatial: System One Spatial Intelligence via Native Attention Matching**, arXiv 2026. [[Paper](https://arxiv.org/abs/2610.22276)] [[Code](https://github.com/Fr0zenCrane/MJev-Spatial)] — Supervised spatial prediction over choices, numerical bins and image regions using pretrained attention Q/K projections.
+* **VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**, arXiv 2026. [[Paper](https://arxiv.org/abs/2607.14935)] [[Code](https://github.com/MCG-NJU/VideoChat3)] — An open video MLLM with MoonViT-initialized I3D-ViT, spatiotemporal token compression and released training data.
+* **JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence**, arXiv 2026. [[Paper](https://arxiv.org/abs/2606.14777)] [[Code](https://github.com/jd-opensource/JoyAI-VL-Interaction)] — A vision-first interaction model with per-second silence, response and delegation decisions and a concurrent background loop.
+* **Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**, ICML 2026. [[Paper](https://proceedings.mlr.press/v306/zeng26y.html)] [[arXiv](https://arxiv.org/abs/2601.23224)] [[Code](https://github.com/MCG-NJU/Video-o3)] — Long-video multi-hop QA through native interleaved VideoCrop evidence seeking, task-decoupled attention and trajectory-guided training.
 
 ### Image Generation
 * Convolutional / Recurrent Networks
